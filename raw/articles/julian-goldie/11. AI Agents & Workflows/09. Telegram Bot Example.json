@@ -1,0 +1,313 @@
+{
+    "REDACTED": "REDACTED",
+    "flow": [
+        {
+            "id": 1,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTHOOK__": 1625099
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": -65,
+                    "y": -84
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTHOOK__": {
+                            "data": {
+                                "REDACTED": "REDACTED"
+                            },
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 5402192
+            },
+            "mapper": {
+                "REDACTED": "REDACTED",
+                "messages": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ],
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 264,
+                    "y": -83
+                },
+                "restore": {
+                    "expect": {
+                        "model": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "messages": {
+                            "REDACTED": "REDACTED",
+                            "items": [
+                                {
+                                    "role": {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                }
+                            ]
+                        },
+                        "response_format": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "options": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                ]
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ],
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "text",
+                                "json_object"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 5402562
+            },
+            "mapper": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 580,
+                    "y": -93
+                },
+                "restore": {
+                    "expect": {
+                        "parseMode": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "disableNotification": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "replyMarkupAssembleType": {
+                            "REDACTED": "REDACTED"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "Markdown",
+                                "HTML"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "reply_markup_enter",
+                                "reply_markup_assemble"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": true,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "REDACTED": "REDACTED",
+        "notes": []
+    }
+}

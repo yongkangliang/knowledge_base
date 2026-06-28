@@ -1,0 +1,384 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -520,
+        380
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openRouterApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -1080,
+        280
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openRouterApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        -1040,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"title:\" or \"teaser\" etc: just the script, nothing else. Do not say title etc. Don't label the script, because I'll paste it straight into the video generator so it should only have the spoken parts, nothing else.",
+        "options": {
+          "REDACTED": "REDACTED"SEO Link Building Mastery\" and \"Agency Marketing Mastery,\". His Udemy courses have attracted over 50,000 students and has over 70,000 subscribers on YouTube.\nFocus on giving as much value as possible: Only do these CTAs at the end:\n- Mention my AI Profit Boardroom - https://www.skool.com/ai-profit-lab-7462/about - the best place to scale your business, get more customers and save 100s with AI automation\n- CTA to book a free SEO Strategy Session - link in comments + description\n- CTA to get Free AI SEO course + community with 3,600 AI SEOs + 50+ free AI SEO tools - link in comments + description\nNOTE: Only generate the introduction for now > Then keep generating based on quality + re-prompt along the way.\n\n"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        -720,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        500,
+        -520
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        580,
+        -280
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openRouterApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "categories": {
+          "categories": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"This looks great!\"\n✅ \"No changes needed, it's good to go!\"\n✅ \"Approved as is!\"\n"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"This needs more work. Focus on the meta robots based on AI, etc.\"\n❌ \"There are factual errors that need to be corrected.\"\n❌ \"The structure is unclear; please improve readability.\"\n❌ \"Expand on the key points to provide more detail.\"\n\n"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        40,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        0,
+        440
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openRouterApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        -360,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.1,
+      "position": [
+        -160,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "gmailOAuth2": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        -1300,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED"Meta Robots: The Ultimate Guide to AI Robots & SEO. Hey there, today I’m going to share insights on the world of Meta robots. AI is transforming search engine optimization, and here’s how you can take advantage of it...\"\nFeedback: \"This needs more work. Focus on the meta robots based on AI, etc.\"\n"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        500,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "OpenRouter Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenRouter Chat Model1": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Research Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Introduction Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenRouter Chat Model2": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenRouter Chat Model3": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Text Classifier": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gmail": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Rewriting Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

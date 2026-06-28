@@ -1,0 +1,203 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        260,
+        280
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"type\": \"object\",\n  \"properties\": {\n    \"event_name\": { \"type\": \"string\" },\n    \"date_time\": { \"type\": \"string\" },\n    \"timezone\": { \"type\": \"string\" },\n    \"about\": { \"type\": \"string\" },\n    \"contact_phone\": { \"type\": \"string\" },\n    \"contact_email\": { \"type\": \"string\" },\n    \"confirmed_attendance\": { \"type\": \"boolean\" },\n    \"decision_maker\": { \"type\": \"string\" },\n    \"notes\": { \"type\": \"string\" }\n  },\n  \"required\": [\n    \"event_name\",\n    \"date_time\",\n    \"contact_email\",\n    \"confirmed_attendance\"\n  ]\n}\n\n"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        620,
+        220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "hasOutputParser": true,
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.9,
+      "position": [
+        440,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "calendar": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "returnAll": true,
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.3,
+      "position": [
+        220,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleCalendarOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 9
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"from_number\": \"+12185204682\",\n  \"to_number\": \"{{ $json.output.contact_phone }}\",\n  \"retell_llm_dynamic_variables\": {\n    \"name\": \"{{ $json.output.event_name }}\",\n    \"phone_number\": \"{{ $json.output.contact_phone }}\",\n    \"reason\": \"{{ $json.output.about }}\",\n    \"start_time\": \"{{ $json.output.date_time }}\"\n  },\n  \"override_agent_id\": \"agent_e5a69d858089826e753e943c6f\"\n}\n",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        800,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpCustomAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser": {
+      "ai_outputParser": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Outbound AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Appointments": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Daily Schedule": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

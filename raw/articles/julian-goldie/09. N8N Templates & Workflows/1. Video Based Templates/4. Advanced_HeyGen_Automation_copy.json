@@ -1,0 +1,340 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"video_inputs\": [\n    {\n      \"character\": {\n        \"type\": \"avatar\",\n        \"avatar_id\": \"b0e565b0070e4fbfb06727bab125a577\",\n        \"avatar_style\": \"normal\"\n      },\n      \"voice\": {\n        \"type\": \"text\",\n        \"input_text\": \"{{ $json.output }}\",\n        \"voice_id\": \"ff15136c2a7f4d8290c5f685901b3c83\",\n        \"speed\": 1.1\n      }\n    }\n  ],\n  \"dimension\": {\n    \"width\": 1280,\n    \"height\": 720\n  }\n}\n",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -800,
+        500
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -600,
+        500
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"query\": \"{{ $json.chatInput }} site:www.reddit.com\",\n  \"limit\": 5\n}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -300,
+        40
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -420,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        -820,
+        60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.9,
+      "position": [
+        -660,
+        60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.9,
+      "position": [
+        -800,
+        280
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -400,
+        300
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -1060,
+        60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -1060,
+        280
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -1060,
+        480
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Video Creator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request1": {
+      "ai_tool": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Research Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scriptwriting AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model1": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

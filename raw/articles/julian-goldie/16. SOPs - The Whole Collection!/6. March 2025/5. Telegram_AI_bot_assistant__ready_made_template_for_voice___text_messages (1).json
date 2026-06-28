@@ -1,0 +1,535 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {
+          "frequencyPenalty": 0.2,
+          "temperature": 0.7
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1726.1278486979409,
+        660
+      ],
+      "typeVersion": 1,
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "contextWindowLength": 10
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1866.1278486979409,
+        660
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"&amp;\").replace(/>/g, \"&gt;\").replace(/</g, \"&lt;\").replace(/\"/g, \"&quot;\") }}",
+        "additionalFields": {
+          "appendAttribution": false,
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2460,
+        600
+      ],
+      "typeVersion": 1.1,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "updates": [
+          "*"
+        ],
+        "additionalFields": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        406.12784869794086,
+        500
+      ],
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        906.1278486979409,
+        620
+      ],
+      "typeVersion": 1.2,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"text query\" : (!$json?.message?.text && $json?.text ? \"voice message\" : \"unknown type message\") }}"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED" forwarded\" : \"\" }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1260,
+        400
+      ],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "additionalFields": {
+          "appendAttribution": false,
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2080,
+        460
+      ],
+      "typeVersion": 1.1,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "additionalFields": {
+          "appendAttribution": false,
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        906.1278486979409,
+        320
+      ],
+      "typeVersion": 1.2,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED",
+          "temperature": 0.7
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1086.1278486979409,
+        620
+      ],
+      "typeVersion": 1.5,
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 547.5630890194532,
+        "width": 1035.4478381373049
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        380,
+        240
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 550.5748478134515,
+        "width": 861.262180151035,
+        "color": 2
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1440,
+        240
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 194.83713159725437,
+        "width": 367.73614918993235,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        866.1278486979409,
+        573.0639243489702
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        666.1278486979409,
+        320
+      ],
+      "typeVersion": 1.2,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "telegramApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"tg-spoiler\">spoiler</span>, <tg-spoiler>spoiler</tg-spoiler>\n<b>bold <i>italic bold <s>italic bold strikethrough <span class=\"tg-spoiler\">italic bold strikethrough spoiler</span></s> <u>underline italic bold</u></i> bold</b>\n<a href=\"http://www.example.com/\">inline URL</a>\n<code>inline fixed-width code</code>\n<pre>pre-formatted fixed-width code block</pre>\n2. Any code that you send should be wrapped in these tags: <pre><code class=\"language-python\">pre-formatted fixed-width code block written in the Python programming language</code></pre>\nOther programming languages are supported as well.\n3. All <, > and & symbols that are not a part of a tag or an HTML entity must be replaced with the corresponding HTML entities (< with &lt;, > with &gt; and & with &amp;)\n4. If the user sends you a message starting with / sign, it means this is a Telegram bot command. For example, all users send /start command as their first message. Try to figure out what these commands mean and reply accodringly\n"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1740,
+        440
+      ],
+      "typeVersion": 1.1
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "version": 2,
+                  "REDACTED": "REDACTED",
+                  "caseSensitive": true,
+                  "REDACTED": "REDACTED"
+                },
+                "REDACTED": "REDACTED",
+                "conditions": [
+                  {
+                    "operator": {
+                      "REDACTED": "REDACTED",
+                      "REDACTED": "REDACTED",
+                      "singleValue": true
+                    },
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED"
+                  }
+                ]
+              },
+              "renameOutput": true,
+              "REDACTED": "REDACTED"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "version": 2,
+                  "REDACTED": "REDACTED",
+                  "caseSensitive": true,
+                  "REDACTED": "REDACTED"
+                },
+                "REDACTED": "REDACTED",
+                "conditions": [
+                  {
+                    "REDACTED": "REDACTED",
+                    "operator": {
+                      "REDACTED": "REDACTED",
+                      "REDACTED": "REDACTED",
+                      "singleValue": true
+                    },
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED"
+                  }
+                ]
+              },
+              "renameOutput": true,
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        666.1278486979409,
+        500
+      ],
+      "typeVersion": 3.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.1,
+      "position": [
+        2440,
+        360
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "gmailOAuth2": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send final reply": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download voice file": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Window Buffer Memory": {
+      "ai_memory": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert audio to text": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Determine content type": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Listen for incoming events": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Combine content and set properties": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {},
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED",
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

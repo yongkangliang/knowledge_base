@@ -1,0 +1,9 @@
+.obsidian/
+*.docx
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.srt
+.DS_Store

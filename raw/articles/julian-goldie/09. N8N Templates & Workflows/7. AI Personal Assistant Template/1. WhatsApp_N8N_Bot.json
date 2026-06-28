@@ -1,0 +1,165 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "updates": [
+          "messages"
+        ],
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -500,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "whatsAppTriggerApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        -280,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -260,
+        220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.3,
+      "position": [
+        -100,
+        240
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "additionalFields": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        80,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "whatsAppApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "WhatsApp Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

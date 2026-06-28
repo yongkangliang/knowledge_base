@@ -1,0 +1,839 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "REDACTED": "REDACTED",
+              "hoursInterval": 6
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -464,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 200,
+        "width": 280,
+        "color": 2
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -832,
+        -192
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"subreddits\": [\n    \"AskReddit\",\n    \"todayilearned\",\n    \"funny\",\n    \"worldnews\",\n    \"science\",\n    \"technology\",\n    \"gaming\",\n    \"movies\",\n    \"books\",\n    \"fitness\",\n    \"LifeProTips\",\n    \"explainlikeimfive\",\n    \"IAmA\",\n    \"relationships\",\n    \"personalfinance\"\n  ]\n}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        -256,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 320,
+        "width": 424,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -656,
+        256
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        -64,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 264,
+        "width": 408,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -432,
+        -576
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        144,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 420,
+        "width": 512,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        96,
+        -736
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        352,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 412,
+        "width": 444,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -192,
+        240
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "REDACTED": "REDACTED",
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+              },
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.2,
+      "position": [
+        512,
+        -160
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 264,
+        "width": 424
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        304,
+        240
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 404,
+        "width": 464,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        736,
+        -720
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        1328,
+        -96
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "REDACTED": "REDACTED",
+          "value": {},
+          "matchingColumns": [
+            "Timestamp"
+          ],
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.5,
+      "position": [
+        1536,
+        -96
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "retryOnFail": true,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480,
+        "width": 596,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1312,
+        192
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "jsonOutput": true,
+        "options": {
+          "temperature": 0.7
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.8,
+      "position": [
+        800,
+        -256
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "includeDetailedResults": false
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        800,
+        -48
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {
+          "temperature": 0.7
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        800,
+        416
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3,
+      "position": [
+        448,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Subreddit List": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Subreddits": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Reddit Posts": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Select Random Post": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Sheet Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Valid Post": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gather Perspective": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Sentiment Analysis": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Retry if no valid post": {
+      "main": [
+        [],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

@@ -1,0 +1,980 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        80,
+        160
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "options": {
+          "explicitArray": false,
+          "normalize": false
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1120,
+        320
+      ],
+      "executeOnce": true,
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        860,
+        320
+      ],
+      "executeOnce": true,
+      "retryOnFail": true,
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "value": 500
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "value": 3
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        340,
+        320
+      ],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        600,
+        320
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5,
+      "alwaysOutputData": false
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        320,
+        820
+      ],
+      "typeVersion": 3
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        580,
+        820
+      ],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1160,
+        620
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"Get saved keywords\").all();\nconst gsheetKeys = gsheet.map(record => record.json.trending_keyword);\n\nconst items = $('XML').first().json.rss.channel.item;\nconst trafficKey = Object.keys(items[0]).find(key => key.includes(\"approx_traffic\"));\nconst parseTraffic = (traffic) => parseInt(traffic.replace('+', ''), 10);\n\nconst newItems = items.map(item => {\n    const links = Array.isArray(item[\"ht:news_item\"]) ? item[\"ht:news_item\"].slice(0, 3) : [];\n\n    const flattenedLinks = links.reduce((acc, news, index) => {\n        acc[`news_item_url${index + 1}`] = news[\"ht:news_item_url\"];\n        acc[`news_item_title${index + 1}`] = news[\"ht:news_item_title\"];\n        acc[`news_item_picture${index + 1}`] = news[\"ht:news_item_picture\"];\n        acc[`news_item_source${index + 1}`] = news[\"ht:news_item_source\"];\n        return acc;\n    }, {});\n\n    return {\n        trending_keyword: item.title,\n        approx_traffic: parseTraffic(item[trafficKey]),\n        pubDate: item.pubDate,\n        ...flattenedLinks, // Aggiungi i link\n    };\n}).filter(item => \n    item.approx_traffic >= min_traffic && \n    !gsheetKeys.includes(item.trending_keyword) // Filtra quelli già presenti in Google Sheets\n);\n\nlet sortedItems = newItems.sort((a, b) => b.approx_traffic - a.approx_traffic);\nif (max_results > 0) {\n    sortedItems = sortedItems.slice(0, max_results);\n}\n\nreturn sortedItems;\n"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1360,
+        320
+      ],
+      "typeVersion": 2,
+      "alwaysOutputData": false
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        600,
+        1140
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        860,
+        1140
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1140,
+        1140
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        80,
+        320
+      ],
+      "typeVersion": 1.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 1300,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        0,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        260,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        520,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        780,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1040,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 480
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1300,
+        0
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 460
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        520,
+        520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 460,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        780,
+        520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 460
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        260,
+        520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "version": 2,
+            "REDACTED": "REDACTED",
+            "caseSensitive": true,
+            "REDACTED": "REDACTED"
+          },
+          "REDACTED": "REDACTED",
+          "conditions": [
+            {
+              "REDACTED": "REDACTED",
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "singleValue": true
+              },
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        860,
+        820
+      ],
+      "typeVersion": 2.2
+    },
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1160,
+        820
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 300,
+        "width": 1280,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        260,
+        1000
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 460,
+        "width": 500,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1040,
+        520
+      ],
+      "typeVersion": 1
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "XML": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "CONFIG": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mapping": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "content1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "content2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "content3": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GoogleTrends": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "New keywords": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Items": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get saved keywords": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Start every hour past 11 minutes": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When clicking ‘Test workflow’": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If we have scraped min 1 url -> Save": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

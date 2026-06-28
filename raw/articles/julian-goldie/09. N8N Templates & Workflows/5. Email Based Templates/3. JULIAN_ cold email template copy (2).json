@@ -1,0 +1,573 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -816,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3,
+      "position": [
+        -128,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        288,
+        128
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.1,
+      "position": [
+        496,
+        272
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"[name]\", $json[\"Name\"] && $json[\"Name\"].trim() !== '' ? $json[\"Name\"].trim() : \"there\") }}",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "includeOtherFields": true,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        720,
+        288
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.1,
+      "position": [
+        1184,
+        144
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        1120,
+        384
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 320,
+        "width": 380,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "position": [
+        -640,
+        208
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 300,
+        "width": 420,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "position": [
+        0,
+        0
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 280,
+        "width": 284,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "position": [
+        1328,
+        64
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.6,
+      "position": [
+        -608,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1572555007,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.6,
+      "position": [
+        64,
+        128
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "appendAttribution": false,
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.1,
+      "position": [
+        944,
+        352
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "gmailOAuth2": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "REDACTED": "REDACTED",
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "Send Status": "={{ $json.labelIds[0] }}"
+          },
+          "matchingColumns": [
+            "Email"
+          ],
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.6,
+      "position": [
+        1392,
+        144
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED",
+                    "operator": {
+                      "REDACTED": "REDACTED",
+                      "REDACTED": "REDACTED"
+                    },
+                    "REDACTED": "REDACTED"
+                  }
+                ],
+                "REDACTED": "REDACTED"
+              },
+              "renameOutput": true,
+              "REDACTED": "REDACTED"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED",
+                    "operator": {
+                      "REDACTED": "REDACTED",
+                      "REDACTED": "REDACTED",
+                      "REDACTED": "REDACTED"
+                    }
+                  }
+                ],
+                "REDACTED": "REDACTED"
+              },
+              "renameOutput": true,
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.2,
+      "position": [
+        -352,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 272,
+        "width": 1536,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -224,
+        528
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Test workflow’": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Items": {
+      "main": [
+        [],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s) in sheet": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s) in sheet1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send a message": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 1
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

@@ -1,0 +1,469 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {
+          "allowUnauthorizedCerts": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.1,
+      "position": [
+        544,
+        608
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        768,
+        608
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        992,
+        512
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        992,
+        704
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Daily Quote</title>\n    <style>\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n        }\n        .container {\n            max-width: 600px;\n            margin: 20px auto;\n            background: white;\n            border-radius: 10px;\n            overflow: hidden;\n            box-shadow: 0 0 20px rgba(0,0,0,0.1);\n        }\n        .header {\n            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);\n            color: white;\n            padding: 30px;\n            text-align: center;\n        }\n        .header h1 {\n            margin: 0;\n            font-size: 28px;\n        }\n        .date {\n            opacity: 0.9;\n            font-size: 16px;\n            margin-top: 5px;\n        }\n        .quote-section {\n            padding: 40px 30px;\n            text-align: center;\n        }\n        .quote-text {\n            font-size: 24px;\n            font-style: italic;\n            color: #333;\n            margin-bottom: 20px;\n            line-height: 1.4;\n        }\n        .quote-author {\n            font-size: 18px;\n            color: #666;\n            margin-bottom: 20px;\n        }\n        .category-tag {\n            display: inline-block;\n            background: linear-gradient(45deg, #667eea, #764ba2);\n            color: white;\n            padding: 8px 20px;\n            border-radius: 25px;\n            font-size: 14px;\n            font-weight: 500;\n            text-transform: capitalize;\n        }\n        .footer {\n            background: #f8f9fa;\n            padding: 20px;\n            text-align: center;\n            color: #666;\n            font-size: 14px;\n        }\n        .motivational-icon {\n            font-size: 48px;\n            margin-bottom: 20px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <div class=\"header\">\n            <h1>Daily Inspiration</h1>\n            <div class=\"date\">{{ $json.date }}</div>\n        </div>\n        \n        <div class=\"quote-section\">\n            <div class=\"motivational-icon\">✨</div>\n            <div class=\"quote-text\">\"{{ $json.quote }}\"</div>\n            <div class=\"quote-author\">— {{ $json.author }}</div>\n            <div class=\"category-tag\">{{ $json.category }}</div>\n        </div>\n        \n        <div class=\"footer\">\n            <p>Have a wonderful day ahead! 🌟</p>\n            <small>This is your daily dose of inspiration.</small>\n        </div>\n    </div>\n</body>\n</html>"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        1216,
+        608
+      ]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3,
+      "position": [
+        320,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        1664,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.6,
+      "position": [
+        96,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "appendAttribution": false,
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.1,
+      "position": [
+        1440,
+        608
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "gmailOAuth2": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.1,
+      "position": [
+        -576,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "REDACTED": "REDACTED",
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.7,
+      "position": [
+        -352,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.4,
+      "position": [
+        -128,
+        688
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Fetch Quote": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Quote Exists?": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Process Quote": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fallback Quote": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Email Template": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Items": {
+      "main": [
+        [],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s) in sheet": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send a message": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append row in sheet": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Respond to Webhook": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

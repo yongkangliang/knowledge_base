@@ -1,0 +1,168 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED"Breaking news: GPT-5 has just been released.\" \n- Explain what the news is at the top of the post in the headline. \n- Then, underneath, explain what's happening and why it matters.\n- Focus on news headlines that are shocking, crazy, or groundbreaking\n- It must a new news headline from today\nUse the firecrawl tool for the search.\n\nIn the outputs, if it's a quote and you couldn't find any news, then don't put \"since I couldn't access the Fire Call tool\" blah blah blah. Just put the actual quote. No hashtags. No formatting, just plain text with an emoji or 2 etc. Don't include any line formatting in your output, just the actual post. No back \\n etc.\n\nThe posts should not be in quote marks, and also keep the language fifth-grade level or below. \n\nNo back \\n in your posts. Just the text. Plain Text Format "
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.9,
+      "position": [
+        -120,
+        -120
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -200,
+        80
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"query\": \"{{ $json.chatInput }} site:www.reddit.com\",\n  \"limit\": 5\n}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        200,
+        100
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -400,
+        -100
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "additionalFields": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        300,
+        -120
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "twitterOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "ai_tool": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

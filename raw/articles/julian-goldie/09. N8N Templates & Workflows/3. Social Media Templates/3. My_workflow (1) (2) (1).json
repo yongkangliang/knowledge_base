@@ -1,0 +1,240 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -500,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.5,
+      "position": [
+        -320,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"tiktok\": \"3839\",\n}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        -160,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        0,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"post\": {\n    \"target\": {\n      \"targetType\": \"tiktok\",\n      \"isYourBrand\": false,\n      \"disabledDuet\": false,\n      \"privacyLevel\": \"PUBLIC_TO_EVERYONE\",\n      \"isAiGenerated\": true,\n      \"disabledStitch\": false,\n      \"disabledComments\": false,\n      \"isBrandedContent\": false\n    },\n    \"content\": {\n      \"text\": \"{{ $('Google Sheets').item.json.CAPTION }}\",\n      \"platform\": \"tiktok\",\n      \"mediaUrls\": [\"{{ $json.url }}\"]\n    },\n    \"accountId\": \"{{ $('Blotato').item.json.tiktok }}\"\n  }\n}\n",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        280,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {
+    "Schedule Trigger": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "Readable date": "May 15th 2025, 10:06:09 am",
+          "Readable time": "10:06:09 am",
+          "Day of week": "Thursday",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "Day of month": "15",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Google Sheets": [
+      {
+        "json": {
+          "row_number": 2,
+          "ID": 1,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "Final Output": "https://v3.fal.media/files/tiger/XKJkQXerCxXkCIxahaMKw_output.mp4"
+        }
+      }
+    ],
+    "Blotato": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Video to Blotato": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "TikTok Example": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Blotato": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Video to Blotato": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

@@ -1,0 +1,123 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        -580,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "options": {
+          "REDACTED": "REDACTED"SEO Link Building Mastery\" and \"Agency Marketing Mastery,\". His Udemy courses have attracted over 50,000 students and has over 70,000 subscribers on YouTube.\n\nJulian Goldie’s world class SEO Training in the SEO Elite Circle here:\nhttps://go.juliangoldie.com/buy-mastermind\n\nThis is by Julian Goldie. If you want a FREE SEO Strategy session with Julian, book a call here: https://go.juliangoldie.com/strategy-session \n\n- Easy to read + feels conversational\n- UK grammar\n- Add FAQs\n- Add headers/subheaders\n- Keyword in the first line/last line\n- Keep it real, keep it fresh, and keep it engaging.\n- 1st person\n- Chop up complex tips into bullet points, lists, and bold highlights. This makes it a breeze for both people and search engines to skim through.\n- Sprinkle in stories and examples like you're sharing insights over coffee with a pal.\n- In the tonality of Alex Homrmozi, write this article\nNo fluff, nothing cringe, every sentence on a new line, no formal language, keep it neutral.\n- Kick off with real questions and worries your audience faces. Use plain talk to hit the mark, skipping the tech talk unless it's what everyone's chatting about.\n- Include the keyword in the headings + insert relevant semantically relevant keywords + LSIs throughout the content\n- Simplify the language a bit more too\n"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        -40,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -220,
+        -40
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "groqApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "additionalFields": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        360,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "wordpressApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Groq Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

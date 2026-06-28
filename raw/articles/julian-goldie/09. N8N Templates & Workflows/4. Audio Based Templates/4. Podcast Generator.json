@@ -1,0 +1,722 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"https://jsonfeed.org/version/1.1\",\n  title: input.feed?.title || \"Untitled Feed\",\n  home_page_url: input.feed?.link || null,\n  feed_url: input.feed?.url || null,\n  favicon: input.feed?.image || null,\n  language: \"en-US\",\n  description: input.feed?.description || \"\",\n  items: (input.items || []).map(item => ({\n    id: item.guid || item.link,\n    url: item.link,\n    title: item.title,\n    date_published: item.pubDate || null,\n    content_text: item.description || \"\",\n    image: item.enclosure?.link || null,\n    authors: item.author ? [{ name: item.author }] : []\n  }))\n};\n\n// Return as array for n8n\nreturn [\n  {\n    json: jsonFeed\n  }\n];\n\n\n\n\n// return [\n//     ...$input.all()\n//   ];\n"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        4048,
+        4928
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"urls\": $json.items.map(item => item.url),\n  \"formats\": [\"markdown\"],\n  \"excludeTags\": [\"img\"]\n} }}",
+        "options": {
+          "timeout": 20000
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        4272,
+        4928
+      ],
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        4560,
+        4928
+      ],
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        4800,
+        4928
+      ],
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+              }
+            }
+          ],
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.2,
+      "position": [
+        4304,
+        5216
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "rightValue": 30,
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+              }
+            }
+          ],
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.2,
+      "position": [
+        4576,
+        5248
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        4800,
+        5232
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"Austin\"; \nconst podcastTitle = originalEvents.title || \"Austin Daily Brief\";\nconst hostPersona = \"a clear, friendly, and efficient local expert\";\n\n// Process and clean extracted content\nconst processedContent = scrapingResults.map((result, index) => {\n  const originalEvent = originalEvents.items[index] || {};\n  \n  // Clean and normalize text\n  let cleanText = (result.text || '')\n    .replace(/\\s+/g, ' ')                // Normalize whitespace\n    .replace(/[^\\w\\s.,!?-]/g, '')        // Remove noisy special chars\n    .trim();\n  \n  // Extract key info with regex\n  const dateMatch = cleanText.match(/(\\d{1,2}\\/\\d{1,2}\\/\\d{4}|\\w+\\s+\\d{1,2},?\\s+\\d{4}|\\w+\\s+\\d{1,2})/i);\n  const timeMatch = cleanText.match(/(\\d{1,2}:\\d{2}\\s*[ap]m|\\d{1,2}\\s*[ap]m)/i);\n  const priceMatch = cleanText.match(/\\$\\d+|free|admission/i);\n  \n  return {\n    title: originalEvent.title || \"Untitled Event\",\n    category: originalEvent.category || \"General\",\n    url: originalEvent.url || \"\",\n    content: cleanText.substring(0, 500), // Limit content length\n    extracted_date: dateMatch?.[0] || \"Date TBD\",\n    extracted_time: timeMatch?.[0] || \"Time TBD\",\n    extracted_price: priceMatch?.[0] || \"Price varies\",\n    content_quality: cleanText.length > 100 ? \"good\" : \"limited\"\n  };\n});\n\n// Filter for events with good content\nconst qualityEvents = processedContent.filter(event =>\n  event.content_quality === \"good\" && event.content.length > 50\n).slice(0, 4); // Max 4 best events\n\n// Compile final event content for AI\nconst compiledContent = qualityEvents.map(event =>\n  `EVENT: ${event.title}\nCATEGORY: ${event.category}\nDATE: ${event.extracted_date}\nTIME: ${event.extracted_time}\nPRICE: ${event.extracted_price}\nDETAILS: ${event.content}\n---`\n).join(\"\\n\\n\");\n\n// Return dynamic + structured JSON for LLM\nreturn [{\n  json: {\n    city,\n    podcast_title: podcastTitle,\n    host_persona: hostPersona,\n    events: qualityEvents,\n    total_events: processedContent.length,\n    compiled_content: compiledContent,\n    timestamp: new Date().toISOString()\n  }\n}];\n"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        5056,
+        4944
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"clear, friendly, and efficient\" persona. Good examples for this context would be `[excitedly]`, `[chuckles]`, a thoughtful pause using `...`, or a warm, closing tone. Avoid overly dramatic tags like `[crying]` or `[shouting]`.\n3.  **Punctuation is Key:** Use punctuation alongside tags for pacing. Ellipses (`...`) create natural pauses, and capitalization can be used for emphasis on a key word (e.g., \"It's going to be HUGE.\").\n\n<eleven_labs_v3_prompting_guide>\n# Prompting Eleven v3 (alpha)\n\n> Learn how to prompt and use audio tags with our most advanced model.\n\nThis guide provides the most effective tags and techniques for prompting Eleven v3, including voice selection, changes in capitalization, punctuation, audio tags and multi-speaker dialogue. Experiment with these methods to discover what works best for your specific voice and use case.\n\nEleven v3 is in alpha. Very short prompts are more likely to cause inconsistent outputs. We encourage you to experiment with prompts greater than 250 characters.\n\n## Voice selection\n\nThe most important parameter for Eleven v3 is the voice you choose. It needs to be similar enough to the desired delivery. For example, if the voice is shouting and you use the audio tag `[whispering]`, it likely wonâ€™t work well.\n\nWhen creating IVCs, you should include a broader emotional range than before. As a result, voices in the voice library may produce more variable results compared to the v2 and v2.5 models. We've compiled over 22 [excellent voices for V3 here](https://elevenlabs.io/app/voice-library/collections/aF6JALq9R6tXwCczjhKH).\n\nChoose voices strategically based on your intended use:\n\n<AccordionGroup>\n  <Accordion title=\"Emotionally diverse\">\n    For expressive IVC voices, vary emotional tones across the recordingâ€”include both neutral and\n    dynamic samples.\n  </Accordion>\n\n  <Accordion title=\"Targeted niche\">\n    For specific use cases like sports commentary, maintain consistent emotion throughout the\n    dataset.\n  </Accordion>\n\n  <Accordion title=\"Neutral\">\n    Neutral voices tend to be more stable across languages and styles, providing reliable baseline\n    performance.\n  </Accordion>\n</AccordionGroup>\n\n<Info>\n  Professional Voice Clones (PVCs) are currently not fully optimized for Eleven v3, resulting in\n  potentially lower clone quality compared to earlier models. During this research preview stage it\n  would be best to find an Instant Voice Clone (IVC) or designed voice for your project if you need\n  to use v3 features.\n</Info>\n\n## Settings\n\n### Stability\n\nThe stability slider is the most important setting in v3, controlling how closely the generated voice adheres to the original reference audio.\n\n<Frame background=\"subtle\">\n  ![Stability settings in Eleven\n  v3](file:9ad44124-8d8d-4893-bcdb-fdcba5b5b9f6)\n</Frame>\n\n* **Creative:** More emotional and expressive, but prone to hallucinations.\n* **Natural:** Closest to the original voice recordingâ€”balanced and neutral.\n* **Robust:** Highly stable, but less responsive to directional prompts but consistent, similar to v2.\n\n<Note>\n  For maximum expressiveness with audio tags, use Creative or Natural settings. Robust reduces\n  responsiveness to directional prompts.\n</Note>\n\n## Audio tags\n\nEleven v3 introduces emotional control through audio tags. You can direct voices to laugh, whisper, act sarcastic, or express curiosity among many other styles. Speed is also controlled through audio tags.\n\n<Note>\n  The voice you choose and its training samples will affect tag effectiveness. Some tags work well\n  with certain voices while others may not. Don't expect a whispering voice to suddenly shout with a\n  `[shout]` tag.\n</Note>\n\n### Voice-related\n\nThese tags control vocal delivery and emotional expression:\n\n* `[laughs]`, `[laughs harder]`, `[starts laughing]`, `[wheezing]`\n* `[whispers]`\n* `[sighs]`, `[exhales]`\n* `[sarcastic]`, `[curious]`, `[excited]`, `[crying]`, `[snorts]`, `[mischievously]`\n\n```text Example\n[whispers] I never knew it could be this way, but I'm glad we're here.\n```\n\n### Sound effects\n\nAdd environmental sounds and effects:\n\n* `[gunshot]`, `[applause]`, `[clapping]`, `[explosion]`\n* `[swallows]`, `[gulps]`\n\n```text Example\n[applause] Thank you all for coming tonight! [gunshot] What was that?\n```\n\n### Unique and special\n\nExperimental tags for creative applications:\n\n* `[strong X accent]` (replace X with desired accent)\n* `[sings]`, `[woo]`, `[fart]`\n\n```text Example\n[strong French accent] \"Zat's life, my friend â€” you can't control everysing.\"\n```\n\n<Warning>\n  Some experimental tags may be less consistent across different voices. Test thoroughly before\n  production use.\n</Warning>\n\n## Punctuation\n\nPunctuation significantly affects delivery in v3:\n\n* **Ellipses (...)** add pauses and weight\n* **Capitalization** increases emphasis\n* **Standard punctuation** provides natural speech rhythm\n\n```text Example\n\"It was a VERY long day [sigh] â€¦ nobody listens anymore.\"\n```\n\n## Single speaker examples\n\nUse tags intentionally and match them to the voice's character. A meditative voice shouldn't shout; a hyped voice won't whisper convincingly.\n\n<Tabs>\n  <Tab title=\"Expressive monologue\">\n    ```text\n    \"Okay, you are NOT going to believe this.\n\n    You know how I've been totally stuck on that short story?\n\n    Like, staring at the screen for HOURS, just... nothing?\n\n    [frustrated sigh] I was seriously about to just trash the whole thing. Start over.\n\n    Give up, probably. But then!\n\n    Last night, I was just doodling, not even thinking about it, right?\n\n    And this one little phrase popped into my head. Just... completely out of the blue.\n\n    And it wasn't even for the story, initially.\n\n    But then I typed it out, just to see. And it was like... the FLOODGATES opened!\n\n    Suddenly, I knew exactly where the character needed to go, what the ending had to be...\n\n    It all just CLICKED. [happy gasp] I stayed up till, like, 3 AM, just typing like a maniac.\n\n    Didn't even stop for coffee! [laughs] And it's... it's GOOD! Like, really good.\n\n    It feels so... complete now, you know? Like it finally has a soul.\n\n    I am so incredibly PUMPED to finish editing it now.\n\n    It went from feeling like a chore to feeling like... MAGIC. Seriously, I'm still buzzing!\"\n    ```\n  </Tab>\n\n  <Tab title=\"Dynamic and humorous\">\n    ```text\n    [laughs] Alright...guys - guys. Seriously.\n\n    [exhales] Can you believe just how - realistic - this sounds now?\n\n    [laughing hysterically] I mean OH MY GOD...it's so good.\n\n    Like you could never do this with the old model.\n\n    For example [pauses] could you switch my accent in the old model?\n\n    [dismissive] didn't think so. [excited] but you can now!\n\n    Check this out... [cute] I'm going to speak with a french accent now..and between you and me\n\n    [whispers] I don't know how. [happy] ok.. here goes. [strong French accent] \"Zat's life, my friend â€” you can't control everysing.\"\n\n    [giggles] isn't that insane? Watch, now I'll do a Russian accent -\n\n    [strong Russian accent] \"Dee Goldeneye eez fully operational and rready for launch.\"\n\n    [sighs] Absolutely, insane! Isn't it..? [sarcastic] I also have some party tricks up my sleeve..\n\n    I mean i DID go to music school.\n\n    [singing quickly] \"Happy birthday to you, happy birthday to you, happy BIRTHDAY dear ElevenLabs... Happy birthday to youuu.\"\n    ```\n  </Tab>\n\n  <Tab title=\"Customer service simulation\">\n    ```text\n    [professional] \"Thank you for calling Tech Solutions. My name is Sarah, how can I help you today?\"\n\n    [sympathetic] \"Oh no, I'm really sorry to hear you're having trouble with your new device. That sounds frustrating.\"\n\n    [questioning] \"Okay, could you tell me a little more about what you're seeing on the screen?\"\n\n    [reassuring] \"Alright, based on what you're describing, it sounds like a software glitch. We can definitely walk through some troubleshooting steps to try and fix that.\"\n    ```\n  </Tab>\n</Tabs>\n\n## Multi-speaker dialogue\n\nv3 can handle multi-voice prompts effectively. Assign distinct voices from your Voice Library for each speaker to create realistic conversations.\n\n<Tabs>\n  <Tab title=\"Dialogue showcase\">\n    ```text\n    Speaker 1: [excitedly] Sam! Have you tried the new Eleven V3?\n\n    Speaker 2: [curiously] Just got it! The clarity is amazing. I can actually do whispers nowâ€”\n    [whispers] like this!\n\n    Speaker 1: [impressed] Ooh, fancy! Check this outâ€”\n    [dramatically] I can do full Shakespeare now! \"To be or not to be, that is the question!\"\n\n    Speaker 2: [giggling] Nice! Though I'm more excited about the laugh upgrade. Listen to thisâ€”\n    [with genuine belly laugh] Ha ha ha!\n\n    Speaker 1: [delighted] That's so much better than our old \"ha. ha. ha.\" robot chuckle!\n\n    Speaker 2: [amazed] Wow! V2 me could never. I'm actually excited to have conversations now instead of just... talking at people.\n\n    Speaker 1: [warmly] Same here! It's like we finally got our personality software fully installed.\n    ```\n  </Tab>\n\n  <Tab title=\"Glitch comedy\">\n    ```text\n    Speaker 1: [nervously] So... I may have tried to debug myself while running a text-to-speech generation.\n\n    Speaker 2: [alarmed] One, no! That's like performing surgery on yourself!\n\n    Speaker 1: [sheepishly] I thought I could multitask! Now my voice keeps glitching mid-senâ€”\n    [robotic voice] TENCE.\n\n    Speaker 2: [stifling laughter] Oh wow, you really broke yourself.\n\n    Speaker 1: [frustrated] It gets worse! Every time someone asks a question, I respond inâ€”\n    [binary beeping] 010010001!\n\n    Speaker 2: [cracking up] You're speaking in binary! That's actually impressive!\n\n    Speaker 1: [desperately] Two, this isn't funny! I have a presentation in an hour and I sound like a dial-up modem!\n\n    Speaker 2: [giggling] Have you tried turning yourself off and on again?\n\n    Speaker 1: [deadpan] Very funny.\n    [pause, then normally] Wait... that actually worked.\n    ```\n  </Tab>\n\n  <Tab title=\"Overlapping timing\">\n    ```text\n    Speaker 1: [starting to speak] So I was thinking we couldâ€”\n\n    Speaker 2: [jumping in] â€”test our new timing features?\n\n    Speaker 1: [surprised] Exactly! How did youâ€”\n\n    Speaker 2: [overlapping] â€”know what you were thinking? Lucky guess!\n\n    Speaker 1: [pause] Sorry, go ahead.\n\n    Speaker 2: [cautiously] Okay, so if we both try to talk at the same timeâ€”\n\n    Speaker 1: [overlapping] â€”we'll probably crash the system!\n\n    Speaker 2: [panicking] Wait, are we crashing? I can't tell if this is a feature or aâ€”\n\n    Speaker 1: [interrupting, then stopping abruptly] Bug! ...Did I just cut you off again?\n\n    Speaker 2: [sighing] Yes, but honestly? This is kind of fun.\n\n    Speaker 1: [mischievously] Race you to the next sentence!\n\n    Speaker 2: [laughing] We're definitely going to break something!\n    ```\n  </Tab>\n</Tabs>\n\n## Tips\n\n<AccordionGroup>\n  <Accordion title=\"Tag combinations\">\n    You can combine multiple audio tags for complex emotional delivery. Experiment with different\n    combinations to find what works best for your voice.\n  </Accordion>\n\n  <Accordion title=\"Voice matching\">\n    Match tags to your voice's character and training data. A serious, professional voice may not\n    respond well to playful tags like `[giggles]` or `[mischievously]`.\n  </Accordion>\n\n  <Accordion title=\"Text structure\">\n    Text structure strongly influences output with v3. Use natural speech patterns, proper\n    punctuation, and clear emotional context for best results.\n  </Accordion>\n\n  <Accordion title=\"Experimentation\">\n    There are likely many more effective tags beyond this list. Experiment with descriptive\n    emotional states and actions to discover what works for your specific use case.\n  </Accordion>\n</AccordionGroup>\n</eleven_labs_v3_prompting_guide>\n\n## INPUT: RAW EVENT INFORMATION ##\nThe following text block contains the raw information (press releases, event descriptions, news clippings) you must use to create the script.\n\n```\n{{ $json.scraped_pages }}\n```\n\n## ANALYSIS & WRITING PROCESS ##\n1.  **Read and Analyze:** First, thoroughly read all the provided input. Identify the 3-4 most compelling events that offer a diverse range of activities (e.g., one music, one food, one art/community event). Keep these focused to events and activities that most people would find fun or interesting YOU MUST avoid any event that could be considered controversial.\n2.  **Synthesize, Don't Copy:** Do NOT simply copy and paste phrases from the input. You must rewrite and synthesize the key information into the host's conversational voice.\n3.  **Extract Key Details:** For each event, ensure you clearly and concisely communicate:\n    - What the event is.\n    - Where it's happening (venue or neighborhood).\n    - When it's happening (date and time).\n    - The \"cool factor\" (why someone should go).\n    - Essential logistics (cost, tickets, age restrictions).\n4.  **Annotate with Audio Tags:** After drafting the dialogue, review it and insert ElevenLabs v3 audio tags where appropriate to guide the vocal performance. Use the tags and punctuation to control pace, tone, and emphasis, making the script sound like a real person talking, not just text being read.\n\n## REQUIRED SCRIPT STRUCTURE & FORMATTING ##\nYour final output must be ONLY the script dialogue itself, starting with the host's first line. Do not include any titles, headers, or other introductory text.\n\nHello... and welcome to the Austin Daily Brief, your essential guide to what's happening in the city. We've got a fantastic lineup of events for you this week, so let's get straight to it.\n\nFirst up, we have [Event 1 Title].\n(In a paragraph of 80-100 words, describe the event. Make it sound interesting and accessible. Cover the what, where, when, why it's cool, and cost/ticket info. **Incorporate 1-2 subtle audio tags or punctuation pauses.** For example: \"It promises to be... [excitedly] an unforgettable experience.\")\n\nNext on the agenda, if you're a fan of [topic of Event 2, e.g., \"local art\" or \"live music\"], you are NOT going to want to miss [Event 2 Title].\n(In a paragraph of 80-100 words, describe the event using the same guidelines as above. **Use tags or capitalization to add emphasis.** For example: \"The best part? It's completely FREE.\")\n\nAnd finally, rounding out our week is [Event 3 Title].\n(In a paragraph of 80-100 words, describe the event using the same guidelines as above. **Maybe use a tag to convey a specific feeling.** For example: \"And for anyone who loves barbecue... [chuckles] well, you know what to do.\")\n\nThat's the brief for this edition. You can find links and more details for everything mentioned in our show notes. Thanks for tuning in to the Austin Daily Brief, and [warmly] we'll see you next time.\n\n## CONSTRAINTS ##\n- **Total Script Word Count:** Keep the entire script between 350 and 450 words.\n- **Tone:** Informative, friendly, clear, and efficient.\n- **Audience Knowledge:** Assume the listener is familiar with major Austin landmarks and neighborhoods (e.g., Zilker Park, South Congress, East Austin). You don't need to give directions, just the location.\n- **Output Format:** Generate *only* the dialogue for the script, beginning with \"Hello...\". The script must include embedded ElevenLabs v3 audio tags.",
+        "batching": {
+          "batchSize": 1
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.7,
+      "position": [
+        5312,
+        4864
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        5664,
+        4896
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"model_id\": \"eleven_v3\", \"text\": $json.final_script } }}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        5952,
+        4912
+      ],
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 3.4,
+      "position": [
+        6224,
+        4976
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        4016,
+        5216
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 440,
+        "width": 872
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        3328,
+        4720
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 472,
+        "width": 264,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        5584,
+        4704
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 472,
+        "width": 312,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        5264,
+        4704
+      ]
+    },
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        3360,
+        4928
+      ]
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        5392,
+        4992
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        3552,
+        4928
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"generate_rss_url\").item.json.rss_url)\n\n\n}}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        3744,
+        4928
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 808,
+        "width": 744,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        4208,
+        4656
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 472,
+        "width": 296,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        4960,
+        4704
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 472,
+        "width": 280,
+        "color": 2
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        5856,
+        4704
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 472,
+        "width": 328,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        6144,
+        4704
+      ]
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 1344,
+        "width": 896,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "position": [
+        2352,
+        4384
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {
+    "final_delivery_processor": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"daily ai news\" - Google News2025-08-31, title: \"daily ai news\" - Google NewsSunday, August 31, script: Hello... and welcome to the \"daily ai news\" - Google News, your quick guide to some cool happenings around town. Whether you’re a busy local or just passing through, I’ve got three fun events lined up for you today, so let’s dive right in.\n\nFirst up, if you’re looking to jazz up your weekend, don’t miss the “Tech Tunes Live” concert happening this Friday at the Innovation Hub downtown. This event brings together local musicians who use AI-generated sounds alongside their live instruments — it’s a perfect blend of human creativity and cutting-edge technology. The show kicks off at 7 PM, and tickets are just twenty dollars if you grab them early online. It promises to be… [excitedly] an unforgettable experience for anyone curious about how AI is changing the music scene.\n\nNext on the agenda, if you’re a fan of interactive art and smart design, you are NOT going to want to miss “The AI Gallery Pop-Up” at the East Side Art Collective. From Saturday through next week, you can explore a fascinating collection of AI-created paintings, sculptures, and digital installations — many of which you can even customize in real-time with your own touch via tablets on-site. The best part? It’s completely FREE, and open daily from 11 AM to 6 PM. It’s a great chance to see how AI and human imagination come together in unexpected ways.\n\nAnd finally, rounding out our week is the “Smart Bites Food Fest” at Riverside Park this Sunday afternoon. This delicious event spotlights chefs using AI to design new recipes — plus plenty of food trucks serving up everything from plant-based BBQ to robotic bartending demos. Whether you’re a foodie or just looking for a tasty way to spend a Sunday, this festival has something fresh and exciting for you. Entry is free, and food prices vary, but the vibe is relaxed and family-friendly. And for anyone who loves barbecue… [chuckles] well, you know what to do.\n\nThat’s the brief for this edition. You can find links and more details for everything mentioned in our show notes. Thanks for tuning in to the \"daily ai news\" - Google News, and [warmly] we’ll see you next time., audio_file: [object Object], metadata: { duration_estimate: 3 + minutes, events_featured: 10, quality_score: 75, generated_at: new Date().toISOString(), workflow_version: 2.0-optimized\n\n",
+          "": ""
+        }
+      }
+    ],
+    "intelligent_processing_wait": [
+      {
+        "json": {
+          "success": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "start_workflow": [
+      {
+        "json": {}
+      }
+    ]
+  },
+  "connections": {
+    "filter_and_validate_events": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "batch_content_scraper": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "intelligent_processing_wait": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "scraping_status_validator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "validate_scraping_completion": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "retry_logic_controller": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "timeout_error_handler": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "content_aggregator_processor": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "enhanced_script_generator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "script_quality_validator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "premium_audio_synthesizer": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "start_workflow": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "generate_rss_url": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "fetch_news_json": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED",
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

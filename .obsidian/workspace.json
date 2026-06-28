@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "0216ac6f5cb6134b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e80b55339aff0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9118cbd9a268b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex_LLM_Wiki_Obsidian知识库搭建实战.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Codex_LLM_Wiki_Obsidian知识库搭建实战"
+            }
+          },
+          {
+            "id": "075653d5b7c87652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/agent-skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent-skills"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "019bd3c9edbd7a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa9b8130887dabb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2077fa1f7e4039",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7f66c0093579549d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f2fff4080638bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aa79ba293b56141",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a95bf5db75ecd2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8675fcfd516a30f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/agent-skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "agent-skills 的反向链接列表"
+            }
+          },
+          {
+            "id": "3f0e5065036a2ddd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3753dfa946e37f2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d12c586f560798ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8c9bc7798741bbe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/agent-skills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "agent-skills 的大纲"
+            }
+          },
+          {
+            "id": "d65204ef9e12ef63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "075653d5b7c87652",
+  "lastOpenFiles": [
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/5. Generate_SEO_Optimized_WordPress_Content_with_AI_Powered_Perplexity_Research.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/3. SEO_Blog_Post_AI_Automation.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/4. Analyze_Any_Website_with_OpenAI_And_Get_On_Page_SEO_Audit.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/2. Analyze_Landing_Page_with_OpenAI_and_Get_Optimization_Tips.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/1. Daily quote (1) (1).json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/6. Keyword_Checker.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/02. Build_Your_First_AI_Data_Analyst_Chatbot (1).json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/01. Parse_and_Extract_Data_from_Documents_Images_with_Mistral_OCR.json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/11. Banana_ Image to Video (1).json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/12. Book_Workflow (1).json",
+    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/09. Upwork_Opportunity_Aggregator___AI_Powered_Notifier.json",
+    "raw/articles/julian-goldie/17. AI SEO Automation/10_ AI SEO Process to Rank _1 - AI SEO Automation AI Profit Boardroom (14_03_2026 124802).md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/10. AI SEO.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/09. LinkedIn SEO.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/01. SEO Writing AI.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/08. Manus Building, Vibe Coding + Editing websites..md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/07. How to Humanize AI Text And Bypass AI Detectors.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/06. 50+ Free AI SEO Tools to Rank #1.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/05. Rank #1 in 60 seconds guide!.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/04. Perplexity + Claude Workflow for SEO.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/03. Perplexity AI SEO.md",
+    "raw/articles/julian-goldie/17. AI SEO Automation/02. How To Rank #1 With Make SEO.md",
+    "raw/articles/julian-goldie/QaA/September 2025/24th of September - Q_A Call Recordings AI Profit Boardroom (16_03_2026 045552).md",
+    "raw/articles/julian-goldie/QaA/September 2025/17th of September - Q_A Call Recordings AI Profit Boardroom (16_03_2026 045535).md",
+    "raw/articles/julian-goldie/QaA/October 2025/8th of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060309).md",
+    "raw/articles/julian-goldie/QaA/October 2025/1st of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060237).md",
+    "raw/articles/julian-goldie/QaA/October 2025/15th of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060321).md",
+    "raw/articles/julian-goldie/QaA/November 2025/Q_A - 5th of November - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060412).md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/n8n automation coaching session 25th of September - Coaching Calls AI Profit Boardroom (17_03_2026 1.md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/The n8n rundown with Jeff - 18th of September - Coaching Calls AI Profit Boardroom (17_03_2026 15103.md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/Monday Q_A - 29th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151049).md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/MCP Run-down with Jeff - 16th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151023).md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/Live Session with Vick and Jeff -15th of September - Coaching Calls AI Profit Boardroom (17_03_2026 .md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/Jimmy_s Learning Corner - 11th of September - Coaching Calls AI Profit Boardroom (17_03_2026 150952).md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/Jeff_s Business Talk - 12th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151003).md",
+    "raw/articles/julian-goldie/Coaching Calls/September 2025/Hugging Face Run-through - 30th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151102.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

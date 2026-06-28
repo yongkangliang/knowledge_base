@@ -1,0 +1,764 @@
+{
+    "REDACTED": "REDACTED",
+    "flow": [
+        {
+            "id": 4,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 5572605
+            },
+            "mapper": {
+                "messages": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ],
+                "REDACTED": "REDACTED",
+                "fallback": true,
+                "json_mode": false,
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": -6,
+                    "y": 40
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "REDACTED": "REDACTED",
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        }
+                    },
+                    "expect": {
+                        "messages": {
+                            "REDACTED": "REDACTED",
+                            "items": [
+                                {
+                                    "role": {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                }
+                            ]
+                        },
+                        "model": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "fallback": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "json_mode": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "stop": {
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "options": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                ],
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "min": 1
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "max": 2,
+                            "min": 0
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "max": 1,
+                            "min": 0
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "max": 2,
+                            "min": -2
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "min": 1
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "spec": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 5572544
+            },
+            "mapper": {
+                "video_inputs": [
+                    {
+                        "character": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "offset": {},
+                            "matting": false
+                        },
+                        "voice": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "background": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                ],
+                "test": false,
+                "dimension": {
+                    "REDACTED": "REDACTED",
+                    "REDACTED": "REDACTED"
+                }
+            },
+            "metadata": {
+                "designer": {
+                    "x": 386,
+                    "y": 40
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "REDACTED": "REDACTED",
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        }
+                    },
+                    "expect": {
+                        "video_inputs": {
+                            "REDACTED": "REDACTED",
+                            "items": [
+                                {
+                                    "character": {
+                                        "nested": {
+                                            "type": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            },
+                                            "avatar_id": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            },
+                                            "avatar_style": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            },
+                                            "matting": {
+                                                "REDACTED": "REDACTED"
+                                            }
+                                        }
+                                    },
+                                    "voice": {
+                                        "nested": {
+                                            "type": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            },
+                                            "voice_id": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            },
+                                            "emotion": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            }
+                                        }
+                                    },
+                                    "background": {
+                                        "nested": {
+                                            "type": {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED"
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "test": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "caption": {
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "spec": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "options": [
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": true
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "default": 1,
+                                                        "required": true,
+                                                        "validate": {
+                                                            "max": 2,
+                                                            "min": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "spec": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "default": 0
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "default": 0
+                                                            }
+                                                        ],
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "default": false,
+                                                        "required": false
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": false
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": true
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "default": 1,
+                                                        "required": true,
+                                                        "validate": {
+                                                            "max": 2,
+                                                            "min": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "spec": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "default": 0
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED",
+                                                                "default": 0
+                                                            }
+                                                        ],
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": true
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": false
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": false
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "required": false
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "spec": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "options": [
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "default": 1,
+                                                        "validate": {
+                                                            "max": 1.5,
+                                                            "min": 0.5
+                                                        }
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "default": 0,
+                                                        "validate": {
+                                                            "max": 50,
+                                                            "min": -50
+                                                        }
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "validate": {
+                                                            "max": 100,
+                                                            "min": 1
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "spec": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED",
+                                        "options": [
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "REDACTED": "REDACTED",
+                                                "REDACTED": "REDACTED",
+                                                "nested": [
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED"
+                                                    },
+                                                    {
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "REDACTED": "REDACTED",
+                                                        "options": [
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            },
+                                                            {
+                                                                "REDACTED": "REDACTED",
+                                                                "REDACTED": "REDACTED"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ]
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "REDACTED": "REDACTED",
+        "notes": []
+    }
+}

@@ -1,0 +1,4339 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "formFields": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "requiredField": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "requiredField": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "requiredField": true
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1520,
+        -2640
+      ],
+      "REDACTED": "REDACTED",
+      "typeVersion": 2.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1080,
+        -2640
+      ],
+      "typeVersion": 1,
+      "alwaysOutputData": false
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1540,
+        -2280
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1080,
+        -2280
+      ],
+      "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1540,
+        -1880
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 300,
+        "width": 1260,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -2360
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 300,
+        "width": 1260
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -2720
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -840,
+        -2640
+      ],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -600,
+        -2640
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -720,
+        -2280
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1300,
+        -2280
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 1700,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -2000
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -200,
+        -1960
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -200,
+        -1800
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 800,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        120,
+        -2000
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "REDACTED": "REDACTED",
+              "weeksInterval": 4,
+              "triggerAtDay": [
+                2
+              ],
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        200,
+        -1880
+      ],
+      "typeVersion": 1.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"your_api_key\""
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1060,
+        -1880
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"your_api_key\""
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -820,
+        -1880
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1300,
+        -1880
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1540,
+        -1400
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 1920,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -1520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"your_api_key\""
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        -1100,
+        -920
+      ],
+      "retryOnFail": true,
+      "typeVersion": 4.2,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"your_api_key\""
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        -1060,
+        -1400
+      ],
+      "retryOnFail": true,
+      "typeVersion": 4.2,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1300,
+        -1400
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        -820,
+        -1400
+      ],
+      "retryOnFail": true,
+      "typeVersion": 2,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1560,
+        -920
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 1920,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -1040
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1340,
+        -920
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"\";\n  return reshared ? (post.resharedPost?.text || \"\") : (post.text || \"\");\n}\n\nfunction getDate(post) {\n  if (!post) return \"\";\n  return post.postedDate || post.postedDateTimestamp || \"\";\n}\n\nreturn [{\n  json: {\n    post_1: getText(data[0]),\n    post_1_date: getDate(data[0]),\n\n    post_2: getText(data[1]),\n    post_2_date: getDate(data[1]),\n\n    post_3: getText(data[2]),\n    post_3_date: getDate(data[2]),\n\n    post_4: getText(data[3], true),\n    post_4_date: getDate(data[3]),\n\n    post_5: getText(data[4], true),\n    post_5_date: getDate(data[4]),\n  }\n}];\n"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        -860,
+        -920
+      ],
+      "retryOnFail": true,
+      "typeVersion": 2,
+      "waitBetweenTries": 3000,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 800,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1640,
+        -580
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1560,
+        -460
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 800,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        340,
+        -1520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "REDACTED": "REDACTED",
+              "weeksInterval": 4,
+              "triggerAtDay": [
+                2
+              ],
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        420,
+        -1400
+      ],
+      "typeVersion": 1.2
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": false
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        440,
+        -1880
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        660,
+        -1880
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": false
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        660,
+        -1400
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        880,
+        -1400
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 360,
+        "width": 800,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        320,
+        -1040
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "REDACTED": "REDACTED",
+              "weeksInterval": 4,
+              "triggerAtDay": [
+                2
+              ],
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        400,
+        -920
+      ],
+      "typeVersion": 1.2
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": false
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        640,
+        -920
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "simplify": false,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -380,
+        -1000
+      ],
+      "executeOnce": true,
+      "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "simplify": false,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -340,
+        -1480
+      ],
+      "executeOnce": true,
+      "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        60,
+        -1480
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        0,
+        -1000
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1320,
+        -460
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        860,
+        -920
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "Lead Name": "={{ $json.name }}",
+            "Email Address": "={{ $json.email_address }}",
+            "Company/Organization": "={{ $json.organization }}",
+            "Recent Posts Summary": "={{ $json.recent_posts_summary }}",
+            "Linkedin Profile Summary": "={{ $json.about_linkedin_profile }}"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "Email Address"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1100,
+        -460
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -560,
+        -1320
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -600,
+        -840
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -560,
+        -1480
+      ],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -600,
+        -1000
+      ],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"your_api_key\""
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"person_locations\": [\"{{ $json.Location }}\"],\n  \"person_titles\": [\"{{ $json['Job Title'] }}\"],\n  \"page\": 1,\n  \"per_page\": {{$json['Number of Leads']}},\n  \"projection\": [\"id\", \"name\", \"linkedin_url\", \"title\"]\n}",
+        "options": {
+          "response": {
+            "response": {}
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -1300,
+        -2640
+      ],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1480,
+        -1180
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 820,
+        "width": 2040,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1400,
+        -1500
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1720,
+        -1180
+      ],
+      "executeOnce": true,
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        2280,
+        -1280
+      ],
+      "retryOnFail": true,
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2460,
+        -1280
+      ],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "simplify": false,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2660,
+        -1280
+      ],
+      "executeOnce": true,
+      "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        3200,
+        -1180
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2460,
+        -1040
+      ],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "simplify": false,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        2660,
+        -1040
+      ],
+      "executeOnce": true,
+      "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"apify-actor-endpoint\"",
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"profileUrls\": [\n        \"{{ $json.linkedin_url }}\"\n    ]\n}",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1960,
+        -1180
+      ],
+      "typeVersion": 4.2,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"no posts\" message\n  items.push({\n    json: {\n      message: \"No posts found\"\n    }\n  });\n  return items;\n}\n\nconst updates = $input.first().json.updates;\n\n// If no posts available, return the \"no posts\" message\nif (updates.length === 0) {\n  items.push({\n    json: {\n      message: \"No posts found\"\n    }\n  });\n  return items;\n}\n\n// Process available posts (up to 4)\nfor (let i = 0; i < Math.min(updates.length, 4); i++) {\n  if (updates[i] && updates[i].postText) {\n    // Create an item for each post with the required n8n structure\n    items.push({\n      json: {\n        postNumber: i + 1,\n        postText: updates[i].postText\n      }\n    });\n  }\n}\n\n// If no valid posts were processed\nif (items.length === 0) {\n  items.push({\n    json: {\n      message: \"No posts found\"\n    }\n  });\n}\n\nreturn items;"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "maxTries": 2,
+      "position": [
+        2280,
+        -1040
+      ],
+      "retryOnFail": true,
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        3020,
+        -1180
+      ],
+      "typeVersion": 3.1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": false,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "display": true,
+              "removed": true,
+              "readOnly": true,
+              "required": false,
+              "REDACTED": "REDACTED",
+              "defaultMatch": false,
+              "canBeUsedToMatch": true
+            }
+          ],
+          "REDACTED": "REDACTED",
+          "matchingColumns": [
+            "apollo_id"
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1960,
+        -920
+      ],
+      "typeVersion": 4.5
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "version": 2,
+            "REDACTED": "REDACTED",
+            "caseSensitive": true,
+            "REDACTED": "REDACTED"
+          },
+          "REDACTED": "REDACTED",
+          "conditions": [
+            {
+              "REDACTED": "REDACTED",
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+              },
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "operator": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "singleValue": true
+              },
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "looseTypeValidation": true,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -560,
+        -1880
+      ],
+      "typeVersion": 2.2
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Merge": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Stringify Data2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Stringify Data3": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Posts Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get About Profile": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Profile Posts": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If email is valid": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger3": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Profile Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get About Profile2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          },
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "On form submission": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Profile Data1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean Profile Data2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Posts AI Summarizer": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Posts AI Summarizer1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Stringify Posts Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Profile Summarizer": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Email from Apollo": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Profile Summarizer1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Confirm Email Validity": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger3": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger4": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger5": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets Trigger6": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "get invalid email rows": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Stringify Profile Data1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pending Username Row": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pending Email Statuses": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Leads with Apollo.io": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "get_failed_posts_summary_rows1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "get_failed_profile_summary_rows": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Completely Enriched Profiles": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pending About and Posts Rows": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pending About and Posts Rows1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pending About and Posts Rows2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

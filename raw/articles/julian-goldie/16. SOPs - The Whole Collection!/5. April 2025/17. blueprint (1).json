@@ -1,0 +1,171 @@
+{
+    "REDACTED": "REDACTED",
+    "flow": [
+        {
+            "id": 1,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 160885
+            },
+            "mapper": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "includeTabsContent": false
+            },
+            "metadata": {
+                "designer": {
+                    "x": -406,
+                    "y": 1
+                },
+                "restore": {
+                    "expect": {
+                        "filter": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "select": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "document": {
+                            "path": [
+                                "Sales Training - Sales SOP"
+                            ]
+                        },
+                        "destination": {
+                            "REDACTED": "REDACTED"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "map",
+                                "dropdown"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "image",
+                                "drawing",
+                                "chart"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "REDACTED": "REDACTED",
+            "version": 2,
+            "parameters": {},
+            "mapper": {
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": -19,
+                    "y": -1
+                },
+                "restore": {},
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "REDACTED": "REDACTED",
+        "notes": []
+    },
+    "io": {
+        "input_spec": [],
+        "output_spec": [
+            {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "required": false,
+                "multiline": false
+            }
+        ]
+    }
+}

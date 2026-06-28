@@ -1,0 +1,2978 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -500,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"for production\".\n\nDo not add any extra text or explanations. Only output these four fields, each starting on a new line, using this format:\n\nvbnet\nCopy\nEdit\nTitle: [Your title here]\nIdea: [Short idea description here]\nEnvironment: [Short environment description here]\nStatus: for production\nExample:\n\nvbnet\nCopy\nEdit\nTitle: Diver Removes Net from Whale 🐋 #whalerescue #marinelife #oceanconservation #diversunite #love #nature #photooftheday #beautiful #ai #viral #trendingnow #explorepage\nIdea: Diver carefully cuts fishing net tangled around humpback whale's fin.\nEnvironment: Open ocean, bright sunlight, diver in wetsuit, whale near surface, cinematic realism.\nStatus: for production\nOnly generate the formatted output with no introduction or notes. Be as creative and specific as possible."
+            }
+          ]
+        },
+        "jsonOutput": true,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.8,
+      "position": [
+        -260,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        -220
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "REDACTED": "REDACTED",
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.5,
+      "position": [
+        -500,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 6
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"...\"\nScene 2: \"...\"\nScene 3: \"...\"\nScene 4: \"...\"\nScene 5: \"...\"\nScene 6: \"...\"\nScene 7: \"...\"\nScene 8: \"...\"\nScene 9: \"...\"\nScene 10: \"...\"\nScene 11: \"...\"\nScene 12: \"...\"\nScene 13: \"...\""
+            }
+          ]
+        },
+        "jsonOutput": true,
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.8,
+      "position": [
+        -260,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"object\") {\n    rawScenes = Object.entries(content)\n      .filter(([key]) => key.startsWith(\"Scene\"))\n      .map(([, value]) => value); // Pull just the text content of each scene\n  } else {\n    throw new Error(\"Scene data is missing or not formatted as an object.\");\n  }\n\n} catch (error) {\n  throw new Error(\"Scene extraction failed: \" + error.message);\n}\n\nconst formattedOutput = rawScenes.map(sceneText => ({\n  description: sceneText\n}));\n\nreturn formattedOutput;\n"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        200,
+        -60
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 5
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        140
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"{{ $json.description }}\",   \"image_size\": \"portrait_16_9\" }",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -500,
+        140
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "amount": 1
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        -260,
+        140
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"{{ $json.description }}\",   \"image_size\": \"portrait_16_9\" }",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        0,
+        140
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "REDACTED": "REDACTED"I\", \"you\", or POV phrasing.\n\nInclude environmental details.\n\nAvoid all cinematic words like \"camera\", \"scene\", or movement verbs (e.g., “pans”, “zooms”).\n\nNo storytelling. Each line is a static snapshot.\n\nUse the uploaded image + this system to auto-generate 1 frozen, text-based scene prompt, then send it to the video engine to create an ultra-short cinematic clip. ",
+        "REDACTED": "REDACTED",
+        "options": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.8,
+      "position": [
+        -500,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "amount": 1
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        0,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"{{ $json.content }}\",\n  \"image_url\": \"{{ $('Get Images').item.json.images[0].url }}\",\n  \"duration\": \"5\",\n  \"aspect_ratio\": \"9:16\",\n  \"negative_prompt\": \"bad quality\",\n  \"cfg_scale\": 0.5\n}",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -260,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"{{ $json.description }}\",   \"image_size\": \"portrait_16_9\" }",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        200,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        320
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        560
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "messages": {
+          "values": [
+            {
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.8,
+      "position": [
+        -500,
+        560
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "openAiApi": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "amount": 1
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        100,
+        560
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"Design a moody ambient audio bed to match this underwater concept: beams of light slicing through deep blue currents, silhouettes of divers brushing barnacles off a whale’s flank. Action detail: {{ $json.message.content }}\",\n  \"duration\": 5,\n  \"video_url\": \"{{ $('Get Video').item.json.video.url }}\"\n}\n",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -120,
+        560
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"prompt\": \"{{ $json.description }}\",   \"image_size\": \"portrait_16_9\" }",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        300,
+        560
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 100,
+        "width": 180,
+        "color": 2
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1,
+      "position": [
+        -800,
+        760
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 2,
+      "position": [
+        -500,
+        780
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "amount": 1
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.1,
+      "position": [
+        -140,
+        780
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"tracks\": [\n    {\n      \"id\": \"1\",\n      \"type\": \"video\",\n      \"keyframes\": [\n        { \"url\": \"{{ $json.video_urls[0] }}\", \"timestamp\": 0, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[1] }}\", \"timestamp\": 5, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[2] }}\", \"timestamp\": 10, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[3] }}\", \"timestamp\": 15, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[4] }}\", \"timestamp\": 20, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[5] }}\", \"timestamp\": 25, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[6] }}\", \"timestamp\": 30, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[7] }}\", \"timestamp\": 35, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[8] }}\", \"timestamp\": 40, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[9] }}\", \"timestamp\": 45, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[10] }}\", \"timestamp\": 50, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[11] }}\", \"timestamp\": 55, \"duration\": 5 },\n        { \"url\": \"{{ $json.video_urls[12] }}\", \"timestamp\": 60, \"duration\": 5 }\n      ]\n    }\n  ]\n}\n",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -320,
+        780
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        80,
+        780
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "documentId": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "sheetName": {
+          "__rl": true,
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        },
+        "columns": {
+          "REDACTED": "REDACTED",
+          "value": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "Final Output": "={{ $json.video_url }}"
+          },
+          "matchingColumns": [
+            "IDEA"
+          ],
+          "schema": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "REDACTED": "REDACTED",
+              "canBeUsedToMatch": true,
+              "readOnly": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.5,
+      "position": [
+        300,
+        780
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "Schedule Trigger": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "Readable date": "May 15th 2025, 7:30:01 am",
+          "Readable time": "7:30:01 am",
+          "Day of week": "Thursday",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "Day of month": "15",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Idea Generator": [
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "content": {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Idea to Sheets": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Prompt Generator": [
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "content": {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "Scene 1": "A brown-furred monkey clutches a black GoPro in its tiny hands, crouched on a mossy rock, golden light staining the fine hair around its ears.",
+              "Scene 2": "Mid-frame foliage parts as the monkey barrels forward, wide-eyed and alert, lit by a sharp shaft of sun that cuts through the canopy above.",
+              "Scene 3": "A sudden halt—five inches from the lens, a red-eyed tree frog clings to a glistening vine, its belly wet from the humid air.",
+              "Scene 4": "The monkey dangles upside down from a twisted branch, sky behind glowing orange, the GoPro tightly wedged under its arm.",
+              "Scene 5": "A panoramic stretch of tangled jungle opens ahead, vines crisscrossing like lines, one monkey foot blurred midair above a mud-caked root.",
+              "Scene 6": "A group of startled macaws erupts from a tree just above, their wings frozen at full span, backlit by low amber sun rays.",
+              "Scene 7": "The ground gives way to a slick slope—close-up of the monkey’s hand clawing at wet leaves, GoPro half-covered in smudged dirt.",
+              "Scene 8": "An aged tree trunk fills the frame, gnarled bark spiraling, the monkey barely peeking from behind, both eyes reflecting warm light.",
+              "Scene 9": "A narrow log bridge stretches over a slow-moving creek, monkey mid-step, tail curved awkwardly in the crowded composition.",
+              "Scene 10": "A butterfly lands on the GoPro lens, its wings fully open, blocking the view of the jungle behind in sharp symmetrical silhouette.",
+              "Scene 11": "The monkey pauses inside a hollowed-out tree, framing its curious face in darkness, fine mist particles catching the warm glow outside.",
+              "Scene 12": "From the GoPro's angle, a monitor lizard inches by across damp undergrowth, tongue out, the monkey’s paw visible in the lower corner.",
+              "Scene 13": "Golden mist rolls low across mossy stones as the monkey perches on a branch overhead, staring out with the camera dangling from its neck."
+            },
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Format Prompts": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "HTTP Request": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 2
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 5
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 3
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Wait": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 2
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 5
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 3
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Get Images": [
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2784381730016321
+          },
+          "seed": 88930973,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.27381881000474095
+          },
+          "seed": 1980353509,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2804695009253919
+          },
+          "seed": 125238240,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2798158498480916
+          },
+          "seed": 1295504217,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.28039163863286376
+          },
+          "seed": 3179460760,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2738417102955282
+          },
+          "seed": 606591210,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.27598448900243966
+          },
+          "seed": 2058541938,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.27510525519028306
+          },
+          "seed": 2711434574,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2766642430015054
+          },
+          "seed": 3506874285,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.27902744011953473
+          },
+          "seed": 3621376783,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.2819220907986164
+          },
+          "seed": 2600510051,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.27671494200330926
+          },
+          "seed": 1160700547,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "images": [
+            {
+              "REDACTED": "REDACTED",
+              "width": 576,
+              "height": 1024,
+              "REDACTED": "REDACTED"
+            }
+          ],
+          "timings": {
+            "inference": 0.28070181189104915
+          },
+          "seed": 3967908558,
+          "has_nsfw_concepts": [
+            false
+          ],
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Create Video Prompts": [
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Video Creator": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Wait1": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 1
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Get Video": [
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 7642297
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 3304252
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 4143120
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 4237045
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 5301186
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 6361190
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 4920378
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 11747276
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 8789570
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 4493996
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 2698962
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 9883165
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 3811192
+          }
+        }
+      }
+    ],
+    "Sound Prompt Generator": [
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      },
+      {
+        "json": {
+          "index": 0,
+          "message": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    ],
+    "Create sound": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Wait2": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      },
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "List Elements": [
+      {
+        "json": {
+          "video_urls": [
+            "https://v3.fal.media/files/monkey/dfudjZZt4AbyB195KwHfN_aSkCbVLatQIEhm1IsBo0A_output.mp4",
+            "https://v3.fal.media/files/tiger/GrbckLUQB0WIErojcd8F1_Ye8z2GAhIfoVg7M8rUrbu_output.mp4",
+            "https://v3.fal.media/files/panda/tLZE6TjHjIqgX5e3AfmrX_1wdbMbsLKgIVtU1uPzkNw_output.mp4",
+            "https://v3.fal.media/files/elephant/hWv6viVDhciAeLpab4J0W_r7j90IqQ_i9Zc7HVFhRf0_output.mp4",
+            "https://v3.fal.media/files/monkey/Qsjwzzmc0VvR5I09-MtAg_Yr5UvPeP4QEnrb93YPmYa_output.mp4",
+            "https://v3.fal.media/files/zebra/pNKhOltr0OJDwaUFFI_sn_jqZ0PPNyudrQIvuCSdD_0_output.mp4",
+            "https://v3.fal.media/files/panda/_lSU1qwrZfCUuLqrrAvkB_uYIJXTsUcYpcndp6QQm7M_output.mp4",
+            "https://v3.fal.media/files/lion/Rvr3RXPBtAY-34pLSJNky__VomNX0NYXgAdkbZG-Oku_output.mp4",
+            "https://v3.fal.media/files/penguin/SgIgjX6KoB84rqPIYfIpp_Opbz2l_DWOLBsPZ83ei6W_output.mp4",
+            "https://v3.fal.media/files/zebra/tgFPXuqeJZDiK9tgURmdc_WjKq_Je3ZVtg0wb6umpJf_output.mp4",
+            "https://v3.fal.media/files/lion/Tfmk4Udpw1zri7x_hXOfH_wzuZ2-oRvo4XJ8Dza_-xi_output.mp4",
+            "https://v3.fal.media/files/penguin/kiDya-4pBeWrIfQliS7xi_RAYFtuB9hl8r8Wyr0zvOq_output.mp4",
+            "https://v3.fal.media/files/kangaroo/A8AlotGPAutS85CfcVn1c_ik5SePdrA6vyqIYlnNnaP_output.mp4"
+          ]
+        }
+      }
+    ],
+    "Stitch Video": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Wait3": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "logs": null,
+          "metrics": {},
+          "queue_position": 0
+        }
+      }
+    ],
+    "Get Sounds": [
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 1239764
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 662441
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 681843
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 745488
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 907595
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 1126582
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 869129
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 1380883
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 1229775
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 858642
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 467175
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 1399456
+          }
+        }
+      },
+      {
+        "json": {
+          "video": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "file_size": 753772
+          }
+        }
+      }
+    ],
+    "URL to Google Sheets": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED",
+          "Final Output": "https://v3.fal.media/files/tiger/XKJkQXerCxXkCIxahaMKw_output.mp4"
+        }
+      }
+    ],
+    "Get Final Video": [
+      {
+        "json": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Idea Generator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Idea to Sheets": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prompt Generator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Prompts": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Images": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Video Prompts": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Video Creator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Video": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Sound Prompt Generator": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait2": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create sound": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Sounds": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Elements": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait3": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Stitch Video": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Final Video": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

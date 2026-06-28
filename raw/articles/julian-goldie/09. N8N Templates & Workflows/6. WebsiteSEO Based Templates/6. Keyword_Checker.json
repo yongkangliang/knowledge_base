@@ -1,0 +1,315 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        240,
+        320
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED"keyword 1\", \"keyword 2\",...]\n2. Create a Google Ads API account and add credentials to `Get Search Data` node\n3. Replace the `Connect to your own database` with your own database for the output\n\n\n## How to Adjust it to Your Needs\n- Change the `Set 20 Keywords` node input to a source of your choosing e.g. Airtable database with 20 keywords\n- Connect to output source of your choosing \n\n\nMade by Simon @ automake.io",
+        "height": 843.3412992154545,
+        "width": 657.3293805248016,
+        "color": 4
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        -500,
+        -120
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        940,
+        320
+      ],
+      "notesInFlow": true,
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 249.10159911061476,
+        "width": 250.00985945500486,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        400,
+        260
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 213.62075341687063,
+        "width": 231.51775697271012,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1160,
+        260
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 250.67161641737852,
+        "width": 475.3228796552902,
+        "color": 7
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        660,
+        260
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 94.39142091152823,
+        "width": 248.59379819295242,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        380,
+        520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 217.5249520543415,
+        "width": 723.161826981043,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        640,
+        520
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "height": 80,
+        "width": 284.87764467541297,
+        "color": 3
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1160,
+        160
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"workflow automation software\", \"enterprise workflow automation\", \"finance automation software\", \"saas automation platform\", \"automation roi calculator\", \"hr process automation\", \"data synchronization software\", \"n8n workflow automation\", \"scalable business operations\", \"n8n vs zapier\", \"lead generation automation\", \"automation consulting services\", \"n8n automation\", \"marketing automation tools\", \"custom automation solutions\", \"ecommerce automation solutions\", \"business process automation\", \"small business automation\", \"no code automation\", \"crm automation integration\"] "
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        440,
+        320
+      ],
+      "notesInFlow": true,
+      "typeVersion": 3.4,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        1220,
+        320
+      ],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        720,
+        320
+      ],
+      "notesInFlow": false,
+      "retryOnFail": true,
+      "typeVersion": 4.2,
+      "REDACTED": "REDACTED"
+    }
+  ],
+  "pinData": {
+    "Set >=20 Keywords": [
+      {
+        "json": {
+          "Keyword": [
+            "workflow automation software",
+            "enterprise workflow automation",
+            "finance automation software",
+            "saas automation platform",
+            "automation roi calculator",
+            "hr process automation",
+            "data synchronization software",
+            "n8n workflow automation",
+            "scalable business operations",
+            "n8n vs zapier",
+            "lead generation automation",
+            "automation consulting services",
+            "n8n automation",
+            "marketing automation tools",
+            "custom automation solutions",
+            "ecommerce automation solutions",
+            "business process automation",
+            "small business automation",
+            "no code automation",
+            "crm automation integration"
+          ]
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Get Search Data": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out by KW": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set >=20 Keywords": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When clicking ‘Test workflow’": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

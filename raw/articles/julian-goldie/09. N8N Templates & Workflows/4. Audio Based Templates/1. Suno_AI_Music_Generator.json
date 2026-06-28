@@ -1,0 +1,231 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 1.2,
+      "position": [
+        -380,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            },
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "redirect": {
+            "redirect": {}
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        -160,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "REDACTED": "REDACTED",
+              "REDACTED": "REDACTED"
+            }
+          ]
+        },
+        "options": {
+          "redirect": {
+            "redirect": {}
+          }
+        }
+      },
+      "REDACTED": "REDACTED",
+      "typeVersion": 4.2,
+      "position": [
+        60,
+        0
+      ],
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "httpHeaderAuth": {
+          "REDACTED": "REDACTED",
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "HTTP Request": [
+      {
+        "json": {
+          "code": 200,
+          "REDACTED": "REDACTED",
+          "data": {
+            "REDACTED": "REDACTED"
+          }
+        }
+      }
+    ],
+    "HTTP Request1": [
+      {
+        "json": {
+          "code": 200,
+          "REDACTED": "REDACTED",
+          "data": {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED"callBackUrl\":\"https://api.example.com/callback\",\"customMode\":true,\"instrumental\":true,\"model\":\"V3_5\",\"negativeTags\":\"Heavy Metal, Upbeat Drums\",\"prompt\":\"A calm and relaxing piano track with soft melodies\",\"style\":\"Classical\",\"title\":\"Peaceful Piano Meditation\"}",
+            "response": {
+              "REDACTED": "REDACTED",
+              "sunoData": [
+                {
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "createTime": 1749688541060,
+                  "duration": 137.2
+                },
+                {
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "REDACTED": "REDACTED",
+                  "createTime": 1749688541060,
+                  "duration": 182.48
+                }
+              ]
+            },
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "errorCode": null,
+            "errorMessage": null,
+            "createTime": 1749688377000
+          }
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "tags": []
+}

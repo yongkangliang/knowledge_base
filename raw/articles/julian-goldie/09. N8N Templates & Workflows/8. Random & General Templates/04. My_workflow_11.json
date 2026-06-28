@@ -1,0 +1,124 @@
+{
+  "REDACTED": "REDACTED",
+  "nodes": [
+    {
+      "parameters": {},
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        0,
+        0
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED"
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        200,
+        0
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "redditOAuth2Api": {
+          "id": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"Reddit\"].parameter[\"subreddit\"]}}",
+        "REDACTED": "REDACTED"id\"]}}"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        400,
+        0
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "redditOAuth2Api": {
+          "id": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "REDACTED": "REDACTED",
+        "REDACTED": "REDACTED"id\"]}}",
+        "REDACTED": "REDACTED"
+      },
+      "REDACTED": "REDACTED",
+      "REDACTED": "REDACTED",
+      "position": [
+        600,
+        0
+      ],
+      "typeVersion": 1,
+      "REDACTED": "REDACTED",
+      "credentials": {
+        "redditOAuth2Api": {
+          "id": null,
+          "REDACTED": "REDACTED"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Reddit": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Reddit1": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "On clicking 'execute'": {
+      "main": [
+        [
+          {
+            "REDACTED": "REDACTED",
+            "REDACTED": "REDACTED",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "REDACTED": "REDACTED"
+  },
+  "REDACTED": "REDACTED",
+  "meta": {
+    "REDACTED": "REDACTED"
+  },
+  "tags": []
+}

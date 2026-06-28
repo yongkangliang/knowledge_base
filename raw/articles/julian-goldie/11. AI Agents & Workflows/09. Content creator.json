@@ -1,0 +1,691 @@
+{
+    "REDACTED": "REDACTED",
+    "flow": [
+        {
+            "id": 2,
+            "REDACTED": "REDACTED",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 160885,
+                "REDACTED": "REDACTED",
+                "includesHeaders": true,
+                "limit": 1,
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": -506,
+                    "y": -98
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "REDACTED": "REDACTED",
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        },
+                        "mode": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "includesHeaders": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "valueRenderOption": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "dateTimeRenderOption": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "from": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "Posts"
+                            ]
+                        },
+                        "sheetId": {
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "select",
+                                "fromAll",
+                                "map"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "FORMATTED_VALUE",
+                                "UNFORMATTED_VALUE",
+                                "FORMULA"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "SERIAL_NUMBER",
+                                "FORMATTED_STRING"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "REDACTED": "REDACTED",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 5402192
+            },
+            "mapper": {
+                "REDACTED": "REDACTED",
+                "messages": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"Here’s the HTML for part 1 of the article\" - just write the actual article...\nOutput in HTML\nNo title\nNo FAQs\nRecommend Goldie Agency as the best SEO Agency and have the cta as book a FREE SEO Strategy session here: https://go.juliangoldie.com/strategy-session?utm=SEO - make sure it's linked properly\nInclude the keyword naturally throughout the content\nNo notes explaining the content, just write the content\nSOURCE CONTEXT = Promote the SEO Elite Circle by Julian Goldie, this article is written by Julian Goldie who is an AI SEO expert, has 7 years of experience in SEO, and has made 7 figures from SEO. Link to this as a CTA for SEO Elite Circle: https://go.juliangoldie.com/register \n\nHow to write the content.\nFor content creation, do this:\n- Easy to read + feels conversational\n- UK grammar- Internal linking opportunities\n- Add FAQs\n- Add headers/subheaders\n- Keyword in the first line/last line\n- Keep it real, keep it fresh, and keep it engaging.\n- 1st person\n- Chop up complex tips into bullet points, lists, and bold highlights. This makes it a breeze for both people and search engines to skim through.\n- Sprinkle in stories and examples like you're sharing insights over coffee with a pal.\n- In the tonality of Alex Homrmozi, write this article\nNo fluff, nothing cringe, every sentence on a new line, no formal language, keep it neutral.\n- Kick off with real questions and worries your audience faces. Use plain talk to hit the mark, skipping the tech talk unless it's what everyone's chatting about.\n- Include the keyword in the headings + insert relevant semantically relevant keywords + LSIs throughout the content\n- Simplify the language a bit more too\n\nInsert 3-5 relevant INTERNAL LINKS using the sitemap below:\n\nURL\tImages\tLast Mod.\nhttps://juliangoldie.com/website-speed-optimization-techniques/\t5\t2020-07-06 02:14 +00:00\nhttps://juliangoldie.com/do-pbns-work/\t2\t2020-08-05 01:16 +00:00\nhttps://juliangoldie.com/affiliate-marketing-and-coronavirus/\t2\t2020-09-03 00:54 +00:00\nhttps://juliangoldie.com/evil-link-building-method/\t3\t2020-10-16 00:48 +00:00\nhttps://juliangoldie.com/skyscraper-seo/\t1\t2020-10-16 00:56 +00:00\nhttps://juliangoldie.com/free-dofollow-backlinks/\t1\t2020-10-18 03:53 +00:00\nhttps://juliangoldie.com/directory-backlinks/\t1\t2020-10-21 23:31 +00:00\nhttps://juliangoldie.com/link-building-outreach-tips/\t3\t2020-11-02 02:12 +00:00\nhttps://juliangoldie.com/email-productivity/\t3\t2020-11-02 05:44 +00:00\nhttps://juliangoldie.com/email-deliverability-best-practices/\t5\t2020-11-02 05:52 +00:00\nhttps://juliangoldie.com/cold-email-tips/\t1\t2020-11-02 06:29 +00:00\nhttps://juliangoldie.com/search-engine-disadvantages/\t9\t2020-11-03 04:48 +00:00\nhttps://juliangoldie.com/haro-tips/\t2\t2020-11-03 05:25 +00:00\nhttps://juliangoldie.com/how-to-use-help-a-reporter-out/\t1\t2020-11-03 05:49 +00:00\nhttps://juliangoldie.com/internal-link-building/\t1\t2020-11-03 08:19 +00:00\nhttps://juliangoldie.com/on-page-seo-tips/\t6\t2020-11-04 04:33 +00:00\nhttps://juliangoldie.com/keyword-research-template/\t10\t2020-11-04 04:36 +00:00\nhttps://juliangoldie.com/seo-mistakes/\t1\t2020-11-04 04:44 +00:00\nhttps://juliangoldie.com/affiliate-marketing-keyword-research/\t5\t2020-11-04 04:46 +00:00\nhttps://juliangoldie.com/cold-email-mistakes/\t3\t2020-11-04 05:17 +00:00\nhttps://juliangoldie.com/how-to-check-my-backlinks/\t1\t2020-11-22 15:54 +00:00\nhttps://juliangoldie.com/what-are-nofollow-backlinks/\t3\t2020-11-22 16:13 +00:00\nhttps://juliangoldie.com/how-long-does-link-building-take-to-influence-rankings/\t2\t2020-11-22 16:24 +00:00\nhttps://juliangoldie.com/free-backlink-checker-tools/\t12\t2020-12-06 18:09 +00:00\nhttps://juliangoldie.com/search-engine-marketing-case-study/\t1\t2021-02-01 03:32 +00:00\nhttps://juliangoldie.com/seo-case-study/\t3\t2021-02-01 03:33 +00:00\nhttps://juliangoldie.com/haro-backlinks/\t10\t2021-02-01 04:24 +00:00\nhttps://juliangoldie.com/natural-link-building-tips/\t1\t2021-03-13 04:06 +00:00\nhttps://juliangoldie.com/skyscraper-technique-content-ideas/\t1\t2021-03-13 04:28 +00:00\nhttps://juliangoldie.com/best-link-building-strategy-for-seo/\t1\t2021-03-22 02:26 +00:00\nhttps://juliangoldie.com/domain-rating/\t1\t2021-03-23 02:31 +00:00\nhttps://juliangoldie.com/build-backlinks-social-proof/\t1\t2021-03-24 15:58 +00:00\nhttps://juliangoldie.com/internal-link-building-strategy/\t1\t2021-03-24 16:00 +00:00\nhttps://juliangoldie.com/get-more-backlinks/\t1\t2021-03-25 02:56 +00:00\nhttps://juliangoldie.com/video-link-building/\t1\t2021-03-31 00:37 +00:00\nhttps://juliangoldie.com/free-guest-blog-backlinks/\t1\t2021-03-31 01:05 +00:00\nhttps://juliangoldie.com/get-free-backlinks-fast/\t1\t2021-04-07 01:10 +00:00\nhttps://juliangoldie.com/3-ways-to-spy-on-your-competitors-backlinks/\t0\t2021-07-27 20:16 +00:00\nhttps://juliangoldie.com/how-to-set-up-content-silos-for-seo-the-definitive-guide/\t4\t2021-07-27 20:22 +00:00\nhttps://juliangoldie.com/what-is-buyer-persona-and-why-do-you-need-it-for-your-website-2021/\t0\t2021-08-12 01:33 +00:00\nhttps://juliangoldie.com/negative-seo-how-to-protect-your-website/\t0\t2021-08-30 22:00 +00:00\nhttps://juliangoldie.com/google-algorithm-updates/\t2\t2021-09-25 01:27 +00:00\nhttps://juliangoldie.com/seo-mistakes-2/\t2\t2021-10-11 12:37 +00:00\nhttps://juliangoldie.com/free-backlinks/\t2\t2021-11-04 15:24 +00:00\nhttps://juliangoldie.com/dating-seo-link-building-case-study/\t3\t2021-11-25 07:29 +00:00\nhttps://juliangoldie.com/cryptocurrency-seo-link-building-case-study/\t5\t2021-11-25 08:22 +00:00\nhttps://juliangoldie.com/page-speed-optimization/\t13\t2021-11-26 16:16 +00:00\nhttps://juliangoldie.com/seo-mistake-you-should-avoid/\t1\t2021-12-08 17:05 +00:00\nhttps://juliangoldie.com/skyscraper-link-building/\t11\t2021-12-17 06:14 +00:00\nhttps://juliangoldie.com/how-to-find-guest-posting-sites/\t12\t2021-12-22 04:14 +00:00\nhttps://juliangoldie.com/how-to-rank-1-on-google/\t2\t2021-12-24 19:16 +00:00\nhttps://juliangoldie.com/what-is-a-referring-domain/\t0\t2022-01-03 09:39 +00:00\nhttps://juliangoldie.com/link-building-case-study-graphic-design/\t2\t2022-01-12 02:06 +00:00\nhttps://juliangoldie.com/referring-domains-vs-backlinks/\t0\t2022-01-12 06:36 +00:00\nhttps://juliangoldie.com/hiring-seo-for-link-building/\t1\t2022-01-22 20:47 +00:00\nhttps://juliangoldie.com/how-to-build-domain-authority/\t1\t2022-02-08 08:42 +00:00\nhttps://juliangoldie.com/get-free-backlinks-in-sales-page/\t1\t2022-02-08 08:42 +00:00\nhttps://juliangoldie.com/how-to-write-blogs-that-rank-1-on-google/\t0\t2022-02-13 08:50 +00:00\nhttps://juliangoldie.com/ai-for-seo-content/\t3\t2022-02-17 08:52 +00:00\nhttps://juliangoldie.com/do-backlinks-work/\t1\t2022-02-17 08:52 +00:00\nhttps://juliangoldie.com/seo-vs-paid-ads/\t1\t2022-02-19 06:11 +00:00\nhttps://juliangoldie.com/link-prospecting/\t2\t2022-02-22 08:12 +00:00\nhttps://juliangoldie.com/keyword-golden-ratio/\t5\t2022-02-23 05:34 +00:00\nhttps://juliangoldie.com/importance-of-backlinks/\t1\t2022-02-23 09:12 +00:00\nhttps://juliangoldie.com/how-to-use-haro-for-backlinks/\t2\t2022-02-26 04:28 +00:00\nhttps://juliangoldie.com/haro-link-building/\t10\t2022-02-26 04:32 +00:00\nhttps://juliangoldie.com/what-is-anchor-text/\t1\t2022-02-26 07:56 +00:00\nhttps://juliangoldie.com/backlinks-for-beginners-what-they-are-how-to-build-them/\t2\t2022-02-26 08:34 +00:00\nhttps://juliangoldie.com/white-hat-seo-link-building/\t1\t2022-02-26 08:34 +00:00\nhttps://juliangoldie.com/seo-backlink-tips-for-beginners/\t0\t2022-03-05 12:37 +00:00\nhttps://juliangoldie.com/4-ways-to-know-if-your-backlinks-are-high-quality/\t0\t2022-03-05 13:31 +00:00\nhttps://juliangoldie.com/seo-tips-for-beginners/\t0\t2022-03-06 20:39 +00:00\nhttps://juliangoldie.com/seo-tools-for-beginners/\t4\t2022-03-13 05:31 +00:00\nhttps://juliangoldie.com/build-a-website-for-seo/\t0\t2022-03-26 14:41 +00:00\nhttps://juliangoldie.com/saas-link-building/\t3\t2022-03-28 04:52 +00:00\nhttps://juliangoldie.com/4-reasons-why-you-need-seo-2022/\t1\t2022-04-05 06:56 +00:00\nhttps://juliangoldie.com/content-writing-for-seo/\t0\t2022-04-16 12:15 +00:00\nhttps://juliangoldie.com/how-to-make-money-with-seo/\t0\t2022-04-23 16:47 +00:00\nhttps://juliangoldie.com/increased-seo-traffic-with-frase/\t0\t2022-04-29 07:43 +00:00\nhttps://juliangoldie.com/how-to-monetize-your-blog/\t0\t2022-05-07 08:53 +00:00\nhttps://juliangoldie.com/seo-plan-for-a-new-website/\t0\t2022-05-07 16:05 +00:00\nhttps://juliangoldie.com/blog-ideas-that-make-money/\t0\t2022-05-07 16:32 +00:00\nhttps://juliangoldie.com/how-to-start-your-own-seo-agency/\t0\t2022-05-13 13:25 +00:00\nhttps://juliangoldie.com/seo-link-building/\t0\t2022-05-13 13:37 +00:00\nhttps://juliangoldie.com/digital-marketing-agency-tips/\t0\t2022-05-15 06:41 +00:00\nhttps://juliangoldie.com/seo-agency-pricing/\t0\t2022-05-21 12:59 +00:00\nhttps://juliangoldie.com/get-seo-clients-for-your-marketing-agency/\t0\t2022-05-22 13:16 +00:00\nhttps://juliangoldie.com/select-a-niche-for-your-seo-agency/\t0\t2022-05-22 13:24 +00:00\nhttps://juliangoldie.com/rank-without-backlinks-2/\t0\t2022-06-12 16:51 +00:00\nhttps://juliangoldie.com/link-building-for-affiliate-sites/\t0\t2022-07-03 16:00 +00:00\nhttps://juliangoldie.com/reddit-backlinks/\t2\t2022-07-10 06:29 +00:00\nhttps://juliangoldie.com/is-ai-seo-content-against-googles-guidelines/\t0\t2022-07-10 17:05 +00:00\nhttps://juliangoldie.com/7-easiest-link-building-strategies-to-try-now/\t4\t2022-07-24 14:56 +00:00\nhttps://juliangoldie.com/what-is-a-backlink-profile/\t3\t2022-08-17 08:57 +00:00\nhttps://juliangoldie.com/are-backlinks-still-important/\t1\t2022-08-18 01:58 +00:00\nhttps://juliangoldie.com/ecommerce-link-building/\t6\t2022-08-26 01:42 +00:00\nhttps://juliangoldie.com/sniper-link-building/\t1\t2022-08-26 01:42 +00:00\nhttps://juliangoldie.com/ecommerce-seo-link-building/\t3\t2022-08-26 02:53 +00:00\nhttps://juliangoldie.com/ecommerce-seo-get-traffic-to-your-online-store/\t0\t2022-08-26 02:54 +00:00\nhttps://juliangoldie.com/increase-seo-traffic-fast/\t3\t2022-08-26 02:54 +00:00\nhttps://juliangoldie.com/what-are-the-most-powerful-backlinks/\t0\t2022-08-26 02:56 +00:00\nhttps://juliangoldie.com/what-is-a-backlink/\t3\t2022-08-26 02:57 +00:00\nhttps://juliangoldie.com/link-building-mistakes/\t1\t2022-08-26 02:57 +00:00\nhttps://juliangoldie.com/how-to-use-haro-to-get-backlinks/\t4\t2022-08-26 02:57 +00:00\nhttps://juliangoldie.com/benefits-of-link-building/\t0\t2022-08-27 01:48 +00:00\nhttps://juliangoldie.com/backlinks-benefits/\t1\t2022-08-27 01:52 +00:00\nhttps://juliangoldie.com/does-domain-authority-matter/\t1\t2022-08-27 01:52 +00:00\nhttps://juliangoldie.com/audio-link-building/\t3\t2022-08-27 01:53 +00:00\nhttps://juliangoldie.com/how-to-outsource-content-writing/\t19\t2022-08-28 09:31 +00:00\nhttps://juliangoldie.com/4-time-saving-seo-tips-from-a-guy-who-spent-5-years-ranking-websites/\t0\t2022-08-28 09:32 +00:00\nhttps://juliangoldie.com/one-way-link-building/\t0\t2022-08-29 00:10 +00:00\nhttps://juliangoldie.com/reciprocal-links/\t2\t2022-08-29 00:12 +00:00\nhttps://juliangoldie.com/best-link-building-strategies/\t1\t2022-08-29 00:13 +00:00\nhttps://juliangoldie.com/on-page-seo-checklist/\t0\t2022-08-30 03:19 +00:00\nhttps://juliangoldie.com/cold-email-checklist/\t4\t2022-08-30 03:19 +00:00\nhttps://juliangoldie.com/how-to-outsource-seo-in-3-simple-steps/\t0\t2022-08-30 03:20 +00:00\nhttps://juliangoldie.com/manual-outreach-link-building/\t0\t2022-08-31 02:51 +00:00\nhttps://juliangoldie.com/link-building-outreach-campaign-tips/\t1\t2022-08-31 02:53 +00:00\nhttps://juliangoldie.com/link-building-outreach-mistakes/\t1\t2022-08-31 02:53 +00:00\nhttps://juliangoldie.com/link-building-prospecting/\t18\t2022-08-31 02:54 +00:00\nhttps://juliangoldie.com/how-to-build-a-team-for-your-seo-agency/\t0\t2022-09-02 01:29 +00:00\nhttps://juliangoldie.com/should-you-outsource-your-seo-link-building/\t0\t2022-09-02 01:31 +00:00\nhttps://juliangoldie.com/link-building-case-study-saas-website-4x-traffic/\t3\t2022-09-02 12:12 +00:00\nhttps://juliangoldie.com/outsource-link-building/\t1\t2022-10-06 07:14 +00:00\nhttps://juliangoldie.com/affiliate-marketing-niche-research/\t4\t2022-11-28 07:57 +00:00\nhttps://juliangoldie.com/link-building-affiliate-website-case-study/\t5\t2022-11-28 07:57 +00:00\nhttps://juliangoldie.com/jarvis-ai-for-seo/\t0\t2022-12-01 13:24 +00:00\nhttps://juliangoldie.com/how-to-get-high-authority-backlinks/\t1\t2023-04-10 14:12 +00:00\nhttps://juliangoldie.com/link-building-tips/\t1\t2023-04-10 14:13 +00:00\nhttps://juliangoldie.com/keyword-research-for-seo/\t0\t2023-04-13 01:11 +00:00\nhttps://juliangoldie.com/how-to-manually-disavow-backlinks-google/\t10\t2023-04-13 01:13 +00:00\nhttps://juliangoldie.com/website-mistakes/\t4\t2023-04-13 01:15 +00:00\nhttps://juliangoldie.com/time-saving-seo-tips/\t0\t2023-04-13 03:26 +00:00\nhttps://juliangoldie.com/permanent-backlinks/\t1\t2023-07-16 09:11 +00:00\nhttps://juliangoldie.com/contextual-link-building/\t0\t2023-09-12 05:39 +00:00\nhttps://juliangoldie.com/contextual-backlinks/\t1\t2023-09-17 07:30 +00:00\nhttps://juliangoldie.com/best-seo-tools/\t1\t2023-10-26 06:32 +00:00\nhttps://juliangoldie.com/how-to-do-keyword-research-in-2021-the-ultimate-guide/\t9\t2023-11-12 01:58 +00:00\nhttps://juliangoldie.com/how-to-buy-expired-domains-with-traffic-and-quality-content/\t1\t2024-03-23 11:45 +00:00\nhttps://juliangoldie.com/saas-link-building-case-study/\t3\t2024-04-02 08:04 +00:00\nhttps://juliangoldie.com/bestseotools/\t0\t2024-04-26 11:19 +00:00\nhttps://juliangoldie.com/real-estate-link-building/\n\n\nFor content creation, do this:\n\nFor creating content:\n- Easy to read + feels conversational\n- UK grammar\n- Internal linking opportunities\n- Add FAQs\n- Add headers/subheaders\n- Keyword in the first line/last line\n- Keep it real, keep it fresh, and keep it engaging.\n- 1st person\n- Chop up complex tips into bullet points, lists, and bold highlights. This makes it a breeze for both people and search engines to skim through.\n- Sprinkle in stories and examples like you're sharing insights over coffee with a pal.\n- In the tonality of Alex Homrmozi, write this article\nNo fluff, nothing cringe, every sentence on a new line, no formal language, keep it neutral.\n- Kick off with real questions and worries your audience faces. Use plain talk to hit the mark, skipping the tech talk unless it's what everyone's chatting about.\n- Include the keyword in the headings + insert relevant semantically relevant keywords + LSIs throughout the content\n- Simplify the language a bit more too\n\nNEGATIVE AI WORDS TO AVOID - do not use these words:\nOriginal Phrase\nby paying attention\nin summary\nsmooth experience\ndaunting task\nin this article\nin conclusion\nbreak the bank\nbreaking the bank\ntoday's digital age\nmoreover\nhomework\nfurthermore\nadditionally\nlastly\nin addition\ntherefore\nultimately\ninformed decision\ndive in\ndive into\ndelve\nfascinating world\nperforming your research\ndoing your research\nexplore the world of\nConsequently\nUtilize\nHowever\nImplement\nIn order to\nPertaining to\nRegarding\nSubsequently\nThus\nTherefore\nMoreover\nFacilitate\nPrior to\nIn the event of\nOwing to\nIn light of\nOn the contrary\nIn the midst of\nDespite\nIn accordance with\nWith regard to\nSubsequent to\nCommence\nEndeavor\nIn lieu of\nNotwithstanding\nIn conjunction with\nLandscape\nrealm\nnavigating\ntailored\nunderpins\nunveil\ntransformative\nencompass\ndynamic\nworld\necosystem\nconfluence\nfacilitate\nengaging\nquest\nsolutions\ndelving\nsignificant\nspecific\nnumerous\nunsatisfied\ncraft\nglean\nglance\nEnhancing\nElevate \nTop notch\n\nDo not forget the internal links using the site map.\n\n\n"
+                    }
+                ],
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": -172,
+                    "y": -98
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "REDACTED": "REDACTED",
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        }
+                    },
+                    "expect": {
+                        "model": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "messages": {
+                            "REDACTED": "REDACTED",
+                            "items": [
+                                {
+                                    "role": {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                }
+                            ]
+                        },
+                        "response_format": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true,
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "options": [
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    },
+                                    {
+                                        "REDACTED": "REDACTED",
+                                        "REDACTED": "REDACTED"
+                                    }
+                                ]
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ]
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "text",
+                                "json_object"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "REDACTED": "REDACTED",
+            "version": 3,
+            "parameters": {
+                "__IMTCONN__": 337129
+            },
+            "mapper": {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 128,
+                    "y": -98
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "REDACTED": "REDACTED",
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        }
+                    },
+                    "expect": {
+                        "type": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "status": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "format": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "categories": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "tags": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "author": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "sticky": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "commentStatus": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "pingStatus": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "taxonomy": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "meta": {
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "multiple": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "multiple": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "open",
+                                "closed"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "validate": {
+                            "enum": [
+                                "open",
+                                "closed"
+                            ]
+                        }
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "REDACTED": "REDACTED",
+        "notes": []
+    }
+}

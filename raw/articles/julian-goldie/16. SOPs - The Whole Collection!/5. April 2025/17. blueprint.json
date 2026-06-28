@@ -1,0 +1,194 @@
+{
+    "REDACTED": "REDACTED",
+    "flow": [
+        {
+            "id": 1,
+            "REDACTED": "REDACTED",
+            "version": 2,
+            "parameters": {
+                "account": 7580660
+            },
+            "mapper": {
+                "cc": [],
+                "to": [
+                    "{{var.input.Customer_Email_Address}}"
+                ],
+                "bcc": [],
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "attachments": []
+            },
+            "metadata": {
+                "designer": {
+                    "x": -301,
+                    "y": -59
+                },
+                "restore": {
+                    "expect": {
+                        "cc": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "to": {
+                            "REDACTED": "REDACTED",
+                            "items": [
+                                null
+                            ]
+                        },
+                        "bcc": {
+                            "REDACTED": "REDACTED"
+                        },
+                        "attachments": {
+                            "REDACTED": "REDACTED"
+                        }
+                    },
+                    "parameters": {
+                        "account": {
+                            "data": {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            },
+                            "REDACTED": "REDACTED"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "spec": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "required": true
+                        },
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "required": true
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "spec": [
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true,
+                                "REDACTED": "REDACTED"
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "required": true,
+                                "REDACTED": "REDACTED"
+                            },
+                            {
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED",
+                                "REDACTED": "REDACTED"
+                            }
+                        ],
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "spec": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    },
+                    {
+                        "REDACTED": "REDACTED",
+                        "spec": {
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED",
+                            "REDACTED": "REDACTED"
+                        },
+                        "REDACTED": "REDACTED",
+                        "REDACTED": "REDACTED"
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "REDACTED": "REDACTED",
+        "notes": []
+    },
+    "io": {
+        "input_spec": [
+            {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "required": false,
+                "multiline": false
+            },
+            {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "required": false,
+                "multiline": false
+            },
+            {
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "REDACTED": "REDACTED",
+                "required": false,
+                "multiline": false
+            }
+        ],
+        "output_spec": []
+    }
+}
