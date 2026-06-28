@@ -15,7 +15,7 @@ Welcome to the personal knowledge base.
 <!-- Add concept entries here -->
 
 ### Entities
-<!-- Add entity entries here -->
+- [[entities/hermes-skills|Hermes Skills Overview]] — Hermes Agent 全部 34 个 Skill 清单及分类
 
 ### Comparisons
 <!-- Add comparison entries here -->
