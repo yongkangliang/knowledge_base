@@ -1,0 +1,9 @@
+---
+title: "2月19日 Grok 4.2 更新"
+original: "2月19日 Grok 4.2 更新"
+translated: true
+---
+
+# 2月19日 Grok 4.2 更新
+
+https://youtu.be/P74Y7peAY_k

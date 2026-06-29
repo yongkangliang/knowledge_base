@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/agent-skills.md",
+                "file": "raw/articles/julian-goldie/02. $300k AI Playbook - Everything In One Place!/01. Start here Watch this first!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agent-skills"
+              "title": "01. Start here Watch this first!"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/agent-skills.md",
+                "file": "raw/articles/julian-goldie/02. $300k AI Playbook - Everything In One Place!/01. Start here Watch this first!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "agent-skills 的反向链接列表"
+              "title": "01. Start here Watch this first! 的反向链接列表"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/agent-skills.md",
+                "file": "raw/articles/julian-goldie/02. $300k AI Playbook - Everything In One Place!/01. Start here Watch this first!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "agent-skills 的大纲"
+              "title": "01. Start here Watch this first! 的大纲"
             }
           },
           {
@@ -208,44 +208,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "075653d5b7c87652",
+  "active": "fc2077fa1f7e4039",
   "lastOpenFiles": [
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/5. Generate_SEO_Optimized_WordPress_Content_with_AI_Powered_Perplexity_Research.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/3. SEO_Blog_Post_AI_Automation.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/4. Analyze_Any_Website_with_OpenAI_And_Get_On_Page_SEO_Audit.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/2. Analyze_Landing_Page_with_OpenAI_and_Get_Optimization_Tips.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/1. Daily quote (1) (1).json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/6. WebsiteSEO Based Templates/6. Keyword_Checker.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/02. Build_Your_First_AI_Data_Analyst_Chatbot (1).json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/01. Parse_and_Extract_Data_from_Documents_Images_with_Mistral_OCR.json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/11. Banana_ Image to Video (1).json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/12. Book_Workflow (1).json",
-    "raw/articles/julian-goldie/09. N8N Templates & Workflows/8. Random & General Templates/09. Upwork_Opportunity_Aggregator___AI_Powered_Notifier.json",
-    "raw/articles/julian-goldie/17. AI SEO Automation/10_ AI SEO Process to Rank _1 - AI SEO Automation AI Profit Boardroom (14_03_2026 124802).md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/10. AI SEO.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/09. LinkedIn SEO.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/01. SEO Writing AI.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/08. Manus Building, Vibe Coding + Editing websites..md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/07. How to Humanize AI Text And Bypass AI Detectors.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/06. 50+ Free AI SEO Tools to Rank #1.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/05. Rank #1 in 60 seconds guide!.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/04. Perplexity + Claude Workflow for SEO.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/03. Perplexity AI SEO.md",
-    "raw/articles/julian-goldie/17. AI SEO Automation/02. How To Rank #1 With Make SEO.md",
-    "raw/articles/julian-goldie/QaA/September 2025/24th of September - Q_A Call Recordings AI Profit Boardroom (16_03_2026 045552).md",
-    "raw/articles/julian-goldie/QaA/September 2025/17th of September - Q_A Call Recordings AI Profit Boardroom (16_03_2026 045535).md",
-    "raw/articles/julian-goldie/QaA/October 2025/8th of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060309).md",
-    "raw/articles/julian-goldie/QaA/October 2025/1st of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060237).md",
-    "raw/articles/julian-goldie/QaA/October 2025/15th of October - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060321).md",
-    "raw/articles/julian-goldie/QaA/November 2025/Q_A - 5th of November - Q_A Call Recordings AI Profit Boardroom (16_03_2026 060412).md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/n8n automation coaching session 25th of September - Coaching Calls AI Profit Boardroom (17_03_2026 1.md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/The n8n rundown with Jeff - 18th of September - Coaching Calls AI Profit Boardroom (17_03_2026 15103.md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/Monday Q_A - 29th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151049).md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/MCP Run-down with Jeff - 16th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151023).md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/Live Session with Vick and Jeff -15th of September - Coaching Calls AI Profit Boardroom (17_03_2026 .md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/Jimmy_s Learning Corner - 11th of September - Coaching Calls AI Profit Boardroom (17_03_2026 150952).md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/Jeff_s Business Talk - 12th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151003).md",
-    "raw/articles/julian-goldie/Coaching Calls/September 2025/Hugging Face Run-through - 30th of September - Coaching Calls AI Profit Boardroom (17_03_2026 151102.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025/Links_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025/10. Manus AI Agents + Veo 3 = Automated YouTu_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025/9. Lindy Templates_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025/8. Google Deep Think: Tested!_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025/7. Lovable 2.0 How to build basic apps_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/18. Gemini 2.5 Flash Image_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/17. 26th August Latest NotebookLM Updates (Last Week)_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/16. 100 AI Video Prompts_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/15. Qoder_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/14. DeepSeek V3.1_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/13. Minimax_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/12. Googles New FREE AI Agent Is INSANE!_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/11. 1 Click-Google AI Agents_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/10. Gemini NEW Updates!_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/9. Claude 4_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/8. NoteBookLM_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/7. GPT-OSS_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/6. GPT 5_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/5. GPT 5 + N8N_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/4. GPT-5 Build ANYTHING!_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/3. NotebookLM FREE Videos!_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/2. NEW Google Opal Update is INSANE! (FREE!)._zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025/1. Made by Google 2025_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/3. June 2025/3. Genspark Browser_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/3. June 2025/2. Google CLI Update_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/3. June 2025/1. Trae CLI_zh.md",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/8. Perplexity AI Masterclass",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/7. February 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/6. March 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/5. April 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/4. May 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/3. June 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/2. July 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!/1. August 2025",
+    "raw/articles/julian-goldie-zh/16. SOPs - The Whole Collection!",
+    "raw/articles/julian-goldie-zh/05. SOP UPDATES February 2026/January 2026",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
