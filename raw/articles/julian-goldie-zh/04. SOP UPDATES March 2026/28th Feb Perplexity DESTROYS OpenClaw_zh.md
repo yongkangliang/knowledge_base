@@ -1,6 +1,6 @@
 ---
 title: "2月28日 Perplexity 碾压 OpenClaw"
-original: "2月28日 Perplexity 碾压 OpenClaw"
+original: "28th Feb Perplexity DESTROYS OpenClaw"
 translated: true
 ---
 

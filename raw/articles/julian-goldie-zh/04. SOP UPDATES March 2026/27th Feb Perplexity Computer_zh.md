@@ -1,6 +1,6 @@
 ---
 title: "2月27日 Perplexity Computer"
-original: "2月27日 Perplexity Computer"
+original: "27th Feb Perplexity Computer"
 translated: true
 ---
 

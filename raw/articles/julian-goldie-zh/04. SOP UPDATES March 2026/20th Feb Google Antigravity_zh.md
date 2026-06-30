@@ -1,6 +1,6 @@
 ---
 title: "2月20日 Google Antigravity"
-original: "2月20日 Google Antigravity"
+original: "20th Feb Google Antigravity"
 translated: true
 ---
 

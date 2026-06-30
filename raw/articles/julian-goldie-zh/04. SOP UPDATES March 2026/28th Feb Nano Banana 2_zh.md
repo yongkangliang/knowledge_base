@@ -1,6 +1,6 @@
 ---
 title: "2月28日 Nano Banana 2"
-original: "2月28日 Nano Banana 2"
+original: "28th Feb Nano Banana 2"
 translated: true
 ---
 

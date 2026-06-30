@@ -1,6 +1,6 @@
 ---
 title: "2月25日 Google Opal"
-original: "2月25日 Google Opal"
+original: "25th Feb Google Opal"
 translated: true
 ---
 

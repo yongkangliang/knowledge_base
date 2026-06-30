@@ -1,6 +1,6 @@
 ---
 title: "2月23日 IronClaw"
-original: "2月23日 IronClaw"
+original: "23rd Feb IronClaw"
 translated: true
 ---
 

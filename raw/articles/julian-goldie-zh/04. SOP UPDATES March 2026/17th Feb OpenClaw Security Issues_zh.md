@@ -1,6 +1,6 @@
 ---
 title: "2月17日 OpenClaw 安全问题"
-original: "2月17日 OpenClaw 安全问题"
+original: "17th Feb OpenClaw Security Issues"
 translated: true
 ---
 

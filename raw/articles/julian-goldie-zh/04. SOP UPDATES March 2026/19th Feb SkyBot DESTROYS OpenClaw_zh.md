@@ -1,6 +1,6 @@
 ---
 title: "2月19日 SkyBot 碾压 OpenClaw"
-original: "2月19日 SkyBot 碾压 OpenClaw"
+original: "19th Feb SkyBot DESTROYS OpenClaw"
 translated: true
 ---
 

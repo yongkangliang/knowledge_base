@@ -1,6 +1,6 @@
 ---
 title: "2月21日 OpenClaw Mission Control"
-original: "2月21日 OpenClaw Mission Control"
+original: "21st Feb OpenClaw Mission Control"
 translated: true
 ---
 

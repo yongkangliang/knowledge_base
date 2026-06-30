@@ -1,6 +1,6 @@
 ---
 title: "2月21日 AgentZero"
-original: "2月21日 AgentZero"
+original: "21st Feb AgentZero"
 translated: true
 ---
 

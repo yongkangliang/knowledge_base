@@ -1,6 +1,6 @@
 ---
 title: "3月10日 Perplexity + Claude Code"
-original: "3月10日 Perplexity + Claude Code"
+original: "10th March Perplexity + Claude Code"
 translated: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "2月27日 OpenClaw 新更新"
-original: "2月27日 OpenClaw 新更新"
+title: "2月27日 新版 OpenClaw 更新"
+original: "27th Feb New OpenClaw Update"
 translated: true
 ---
 
-# 2月27日 OpenClaw 新更新
+# 2月27日 新版 OpenClaw 更新
 
 https://youtu.be/KYWNOSJwFjg

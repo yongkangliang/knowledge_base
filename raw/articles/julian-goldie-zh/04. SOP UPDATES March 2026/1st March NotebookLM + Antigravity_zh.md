@@ -1,6 +1,6 @@
 ---
 title: "3月1日 NotebookLM + Antigravity"
-original: "3月1日 NotebookLM + Antigravity"
+original: "1st March NotebookLM + Antigravity"
 translated: true
 ---
 

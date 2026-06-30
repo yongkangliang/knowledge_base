@@ -1,6 +1,6 @@
 ---
 title: "3月12日 OpenClaw + Hunter Alpha + Healer Alpha"
-original: "3月12日 OpenClaw + Hunter Alpha + Healer Alpha"
+original: "12th March OpenClaw + Hunter Alpha + Healer Alpha"
 translated: true
 ---
 

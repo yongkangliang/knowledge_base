@@ -1,6 +1,6 @@
 ---
 title: "3月11日 OpenClaw + PaperClip"
-original: "3月11日 OpenClaw + PaperClip"
+original: "11th March OpenClaw + PaperClip"
 translated: true
 ---
 

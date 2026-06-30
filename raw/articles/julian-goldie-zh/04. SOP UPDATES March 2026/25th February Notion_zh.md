@@ -1,6 +1,6 @@
 ---
 title: "2月25日 Notion"
-original: "2月25日 Notion"
+original: "25th February Notion"
 translated: true
 ---
 

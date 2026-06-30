@@ -1,6 +1,6 @@
 ---
 title: "3月11日 Google Gemini"
-original: "3月11日 Google Gemini"
+original: "11th March Google Gemini"
 translated: true
 ---
 

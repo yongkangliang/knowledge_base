@@ -1,6 +1,6 @@
 ---
 title: "3月11日 OpenClaw + NotebookLM"
-original: "3月11日 OpenClaw + NotebookLM"
+original: "11th March OpenClaw + NotebookLM"
 translated: true
 ---
 
