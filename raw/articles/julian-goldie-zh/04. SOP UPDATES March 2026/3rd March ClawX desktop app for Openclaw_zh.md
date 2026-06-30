@@ -1,9 +1,9 @@
 ---
-title: "3月3日 ClawX 桌面应用 for Openclaw"
+title: "3月3日 ClawX 桌面应用 for OpenClaw"
 original: "3rd March ClawX desktop app for Openclaw"
 translated: true
 ---
 
-# 3月3日 ClawX 桌面应用 for Openclaw
+# 3月3日 ClawX 桌面应用 for OpenClaw
 
 https://youtu.be/Qbw40hXdImc
